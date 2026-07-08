@@ -80,7 +80,7 @@ const imgLine1 = "https://www.figma.com/api/mcp/asset/2315783e-7f58-4975-bb17-f1
 
 export default function Frame2136141531() {
   return (
-    <div className="w-full min-h-screen bg-white flex justify-center overflow-x-auto overflow-y-visible">
+    <div className="w-full bg-white flex justify-center overflow-x-auto overflow-y-visible">
     <div className="bg-white content-stretch flex flex-col gap-[80px] items-center px-[80px] pt-[100px] pb-0 relative w-[1440px] shrink-0" data-node-id="1:374">
       <div className="content-stretch flex gap-[20px] items-end relative shrink-0 w-full" data-node-id="1:375">
         <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-[843px]" data-node-id="1:376">
@@ -1449,7 +1449,7 @@ export default function Frame2136141531() {
         <div className="absolute h-[397px] left-[1080px] top-[251.79px] w-[419px]" data-node-id="1:905" data-name="image 2090010110">
           <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage2090010112} />
         </div>
-        <div className="absolute h-[423px] left-[-58px] top-[-45.21px] w-[446.5px]" data-node-id="1:906" data-name="image 2090010109">
+        <div className="absolute h-[423px] left-[-58px] top-[-0.21px] w-[446.5px]" data-node-id="1:906" data-name="image 2090010109">
           <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage2090010113} />
         </div>
         <p className="[word-break:break-word] font-['Nunito_Sans'] font-extrabold leading-[80px] min-w-full relative shrink-0 text-[#004cc9] text-[72px] text-center w-[min-content]" data-node-id="1:907" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
