@@ -81,7 +81,7 @@ const imgLine1 = "https://www.figma.com/api/mcp/asset/2315783e-7f58-4975-bb17-f1
 export default function Frame2136141531() {
   return (
     <div className="w-full min-h-screen bg-white flex justify-center overflow-x-auto">
-    <div className="bg-white content-stretch flex flex-col gap-[80px] items-center px-[80px] py-[100px] relative w-[1440px] shrink-0" data-node-id="1:374">
+    <div className="bg-white content-stretch flex flex-col gap-[80px] items-center px-[80px] pt-[100px] pb-[160px] relative w-[1440px] shrink-0" data-node-id="1:374">
       <div className="content-stretch flex gap-[20px] items-end relative shrink-0 w-full" data-node-id="1:375">
         <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-[843px]" data-node-id="1:376">
           <div className="[word-break:break-word] content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="1:377">
@@ -880,7 +880,7 @@ export default function Frame2136141531() {
             Cases
           </p>
         </div>
-        <div className="h-0 relative shrink-0 w-[calc(100%+160px)] -mx-[80px]" data-node-id="1:710">
+        <div className="h-0 shrink-0 relative left-1/2 -ml-[50vw] w-screen" data-node-id="1:710">
           <div className="absolute inset-[-0.5px_0]">
             <img alt="" className="block max-w-none size-full" src={imgVector45} />
           </div>
@@ -906,7 +906,8 @@ export default function Frame2136141531() {
               The five-step order process, spread across several screens, created barriers for users—a long process, many clicks, and a high drop-off rate during the data entry stage
             </p>
           </div>
-          <div className="bg-[rgba(0,76,201,0.2)] content-stretch flex gap-[44px] items-start justify-center pb-[40px] pt-[24px] px-[80px] relative shrink-0 w-[calc(100%+160px)] -mx-[80px]" data-node-id="1:720">
+          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 relative left-1/2 -ml-[50vw] w-screen flex justify-center" data-node-id="1:720">
+          <div className="content-stretch flex gap-[44px] items-start justify-center pb-[40px] pt-[24px] px-[80px] w-full max-w-[1440px]">
             <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0" data-node-id="1:721">
               <p className="[word-break:break-word] font-['Nunito_Sans:Bold'] font-bold leading-[normal] min-w-full relative shrink-0 text-[#1e1e1e] text-[20px] w-[min-content]" data-node-id="1:722" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
                 How it was
@@ -966,6 +967,7 @@ export default function Frame2136141531() {
               </div>
             </div>
           </div>
+          </div>
         </div>
       </div>
       <div className="content-stretch flex flex-col gap-[32px] items-start relative shrink-0 w-[1280px]" data-node-id="1:733">
@@ -990,7 +992,8 @@ export default function Frame2136141531() {
               We needed to completely redesign the section and increase purchase conversion
             </p>
           </div>
-          <div className="bg-[rgba(0,76,201,0.2)] content-stretch flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] relative shrink-0 w-[calc(100%+160px)] -mx-[80px]" data-node-id="1:742">
+          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 relative left-1/2 -ml-[50vw] w-screen flex justify-center" data-node-id="1:742">
+          <div className="content-stretch flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] w-full max-w-[1440px]">
             <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="1:743">
               <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] flex-col items-center min-w-px overflow-clip p-[12px] relative rounded-[16px]" data-node-id="1:744">
                 <div className="[word-break:break-word] content-stretch flex flex-col gap-[6px] items-start leading-[normal] relative shrink-0 text-[#1e1e1e] w-full" data-node-id="1:745">
@@ -1096,6 +1099,7 @@ export default function Frame2136141531() {
               </div>
             </div>
           </div>
+          </div>
         </div>
       </div>
       <div className="content-stretch flex flex-col gap-[32px] items-start relative shrink-0 w-[1280px]" data-node-id="1:776">
@@ -1123,7 +1127,8 @@ export default function Frame2136141531() {
               <p className="leading-[24px]">Served as both product manager and design lead — coordinating tasks, managing priorities, and onboarding new employees</p>
             </div>
           </div>
-          <div className="bg-[rgba(0,76,201,0.2)] content-stretch flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] relative shrink-0 w-[calc(100%+160px)] -mx-[80px]" data-node-id="1:785">
+          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 relative left-1/2 -ml-[50vw] w-screen flex justify-center" data-node-id="1:785">
+          <div className="content-stretch flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] w-full max-w-[1440px]">
             <div className="content-stretch flex gap-[16px] h-[194px] items-center relative shrink-0 w-[1280px]" data-node-id="1:786">
               <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] flex-col h-full items-center min-w-px overflow-clip p-[12px] relative rounded-[16px]" data-node-id="1:787">
                 <div className="[word-break:break-word] content-stretch flex flex-col gap-[6px] h-[170px] items-start relative shrink-0 text-[#1e1e1e] w-full" data-node-id="1:788">
@@ -1241,6 +1246,7 @@ export default function Frame2136141531() {
                 </div>
               </div>
             </div>
+          </div>
           </div>
         </div>
       </div>
@@ -1445,7 +1451,8 @@ export default function Frame2136141531() {
           </div>
         </div>
       </div>
-      <div className="bg-gradient-to-t content-stretch flex flex-col from-[3.612%] from-[rgba(0,76,201,0.3)] gap-[44px] h-[567px] items-center justify-center pb-[40px] pt-[24px] px-[80px] relative shrink-0 to-[100.04%] to-[rgba(255,255,255,0.3)] w-[calc(100%+160px)] -mx-[80px] overflow-hidden" data-node-id="1:904">
+      <div className="bg-gradient-to-t from-[3.612%] from-[rgba(0,76,201,0.3)] to-[100.04%] to-[rgba(255,255,255,0.3)] shrink-0 relative left-1/2 -ml-[50vw] w-screen flex justify-center" data-node-id="1:904">
+      <div className="content-stretch flex flex-col gap-[44px] h-[567px] items-center justify-center pb-[40px] pt-[24px] px-[80px] relative w-full max-w-[1440px]">
         <div className="absolute h-[397px] left-[1080px] top-[251.79px] w-[419px]" data-node-id="1:905" data-name="image 2090010110">
           <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage2090010112} />
         </div>
@@ -1478,6 +1485,7 @@ export default function Frame2136141531() {
             </div>
           </div>
         </div>
+      </div>
       </div>
     </div>
     </div>
