@@ -78,7 +78,24 @@ const imgVector44 = "https://www.figma.com/api/mcp/asset/5ad1a2b3-fc34-429e-bb9d
 const imgVector45 = "https://www.figma.com/api/mcp/asset/280d4313-c276-4f2d-9aa0-fc3a9085d01c";
 const imgLine1 = "https://www.figma.com/api/mcp/asset/2315783e-7f58-4975-bb17-f1dc25096645";
 
+import { useState, useEffect } from "react";
+
+function useViewportWidth() {
+  const [vw, setVw] = useState(null);
+  useEffect(() => {
+    const update = () => setVw(document.documentElement.clientWidth);
+    update();
+    window.addEventListener("resize", update);
+    return () => window.removeEventListener("resize", update);
+  }, []);
+  return vw;
+}
+
 export default function Frame2136141531() {
+  const vw = useViewportWidth();
+  const bleedStyle = vw
+    ? { width: `${vw}px`, marginLeft: `${640 - vw / 2}px` }
+    : undefined;
   return (
     <div className="w-full bg-white flex justify-center overflow-x-auto overflow-y-visible">
     <div className="bg-white content-stretch flex flex-col gap-[80px] items-center px-[80px] pt-[100px] pb-0 relative w-[1440px] shrink-0" data-node-id="1:374">
@@ -906,7 +923,7 @@ export default function Frame2136141531() {
               The five-step order process, spread across several screens, created barriers for users—a long process, many clicks, and a high drop-off rate during the data entry stage
             </p>
           </div>
-          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 w-screen ml-[calc(640px-50vw)] flex justify-center">
+          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 w-screen flex justify-center" style={bleedStyle}>
           <div className="flex gap-[44px] items-start justify-center pb-[40px] pt-[24px] px-[80px] w-[1280px] shrink-0" data-node-id="1:720">
             <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0" data-node-id="1:721">
               <p className="[word-break:break-word] font-['Nunito_Sans'] font-bold leading-[normal] min-w-full relative shrink-0 text-[#1e1e1e] text-[20px] w-[min-content]" data-node-id="1:722" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
@@ -992,7 +1009,7 @@ export default function Frame2136141531() {
               We needed to completely redesign the section and increase purchase conversion
             </p>
           </div>
-          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 w-screen ml-[calc(640px-50vw)] flex justify-center">
+          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 w-screen flex justify-center" style={bleedStyle}>
           <div className="flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] w-[1280px] shrink-0" data-node-id="1:742">
             <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="1:743">
               <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] flex-col items-center min-w-px overflow-clip p-[12px] relative rounded-[16px]" data-node-id="1:744">
@@ -1127,7 +1144,7 @@ export default function Frame2136141531() {
               <p className="leading-[24px]">Served as both product manager and design lead — coordinating tasks, managing priorities, and onboarding new employees</p>
             </div>
           </div>
-          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 w-screen ml-[calc(640px-50vw)] flex justify-center">
+          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 w-screen flex justify-center" style={bleedStyle}>
           <div className="flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] w-[1280px] shrink-0" data-node-id="1:785">
             <div className="content-stretch flex gap-[16px] h-[194px] items-center relative shrink-0 w-[1280px]" data-node-id="1:786">
               <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] flex-col h-full items-center min-w-px overflow-clip p-[12px] relative rounded-[16px]" data-node-id="1:787">
@@ -1451,7 +1468,7 @@ export default function Frame2136141531() {
           </div>
         </div>
       </div>
-      <div className="bg-gradient-to-t from-[3.612%] from-[rgba(0,76,201,0.3)] to-[100.04%] to-[rgba(255,255,255,0.3)] shrink-0 w-screen ml-[calc(640px-50vw)] flex justify-center">
+      <div className="bg-gradient-to-t from-[3.612%] from-[rgba(0,76,201,0.3)] to-[100.04%] to-[rgba(255,255,255,0.3)] shrink-0 w-screen flex justify-center" style={bleedStyle}>
       <div className="flex flex-col gap-[44px] h-[567px] items-center justify-center pb-[40px] pt-[24px] px-[80px] relative w-[1280px] shrink-0 overflow-hidden" data-node-id="1:904">
         <div className="absolute h-[397px] left-[1080px] top-[251.79px] w-[419px]" data-node-id="1:905" data-name="image 2090010110">
           <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage2090010112} />
