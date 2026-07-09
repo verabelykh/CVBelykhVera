@@ -924,13 +924,13 @@ export default function Frame2136141531() {
             </p>
           </div>
           <div className="bg-[rgba(0,76,201,0.2)] shrink-0 w-screen flex justify-center" style={bleedStyle}>
-          <div className="flex gap-[44px] items-start justify-center pb-[40px] pt-[24px] px-[80px] w-[1280px] shrink-0" data-node-id="1:720">
+          <div className="flex gap-[44px] items-start justify-center pb-[40px] pt-[24px] px-[80px] w-[1280px] shrink-0 rounded-[32px]" data-node-id="1:720">
             <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0" data-node-id="1:721">
               <p className="[word-break:break-word] font-['Nunito_Sans'] font-bold leading-[normal] min-w-full relative shrink-0 text-[#1e1e1e] text-[20px] w-[min-content]" data-node-id="1:722" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
                 How it was
               </p>
               <div className="h-[485px] relative shrink-0 w-[860.556px]" data-node-id="1:723">
-                <div className="absolute flex h-[453.062px] items-center justify-center left-[570.74px] top-[35.83px] w-[270.389px]" data-node-id="1:724">
+                <div className="absolute flex h-[453.062px] items-center justify-center left-[551.06px] top-[35.83px] w-[270.389px]" data-node-id="1:724">
                   <div className="flex-none rotate-10">
                     <div className="h-[424.848px] relative rounded-[15.954px] w-[199.648px]" data-name="image 2090010098">
                       <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.954px]">
@@ -939,7 +939,7 @@ export default function Frame2136141531() {
                     </div>
                   </div>
                 </div>
-                <div className="absolute flex h-[438.617px] items-center justify-center left-[434.83px] top-[7.06px] w-[228.324px]" data-node-id="1:725">
+                <div className="absolute flex h-[438.617px] items-center justify-center left-[415.16px] top-[7.06px] w-[228.324px]" data-node-id="1:725">
                   <div className="flex-none rotate-5">
                     <div className="h-[423.482px] relative rounded-[15.954px] shadow-[0px_-1.952px_7.806px_0px_rgba(0,0,0,0.1)] w-[192.146px]" data-name="image 2090010097">
                       <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.954px]">
@@ -948,7 +948,7 @@ export default function Frame2136141531() {
                     </div>
                   </div>
                 </div>
-                <div className="absolute flex h-[449.459px] items-center justify-center left-[19.67px] top-[38.44px] w-[266.009px]" data-node-id="1:726">
+                <div className="absolute flex h-[449.459px] items-center justify-center left-0 top-[38.44px] w-[266.009px]" data-node-id="1:726">
                   <div className="-rotate-10 flex-none">
                     <div className="h-[421.881px] relative rounded-[15.954px] w-[195.723px]" data-name="image 2090010094">
                       <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.954px]">
@@ -957,7 +957,7 @@ export default function Frame2136141531() {
                     </div>
                   </div>
                 </div>
-                <div className="absolute flex h-[438.879px] items-center justify-center left-[190.89px] top-[7.13px] w-[231.319px]" data-node-id="1:727">
+                <div className="absolute flex h-[438.879px] items-center justify-center left-[171.21px] top-[7.13px] w-[231.319px]" data-node-id="1:727">
                   <div className="-rotate-5 flex-none">
                     <div className="h-[423.482px] relative rounded-[15.954px] shadow-[0px_1.952px_7.806px_0px_rgba(0,0,0,0.1)] w-[195.153px]" data-name="image 2090010095">
                       <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.954px]">
@@ -966,12 +966,12 @@ export default function Frame2136141531() {
                     </div>
                   </div>
                 </div>
-                <div className="absolute h-[423.073px] left-[330.48px] rounded-[15.954px] shadow-[0px_1.952px_7.806px_0px_rgba(0,0,0,0.1)] top-[3.9px] w-[195.342px]" data-node-id="1:728" data-name="image 2090010096">
+                <div className="absolute h-[423.073px] left-[310.81px] rounded-[15.954px] shadow-[0px_1.952px_7.806px_0px_rgba(0,0,0,0.1)] top-[3.9px] w-[195.342px]" data-node-id="1:728" data-name="image 2090010096">
                   <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.954px] size-full" src={imgImage2090010096} />
                 </div>
               </div>
             </div>
-            <div className="content-stretch flex flex-[1_0_0] flex-col gap-[20px] items-start min-w-px relative" data-node-id="1:729">
+            <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0 w-[215.444px]" data-node-id="1:729">
               <p className="[word-break:break-word] font-['Nunito_Sans'] font-bold leading-[normal] relative shrink-0 text-[#1e1e1e] text-[20px] w-full" data-node-id="1:730" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
                 As it turned out
               </p>
@@ -1010,7 +1010,7 @@ export default function Frame2136141531() {
             </p>
           </div>
           <div className="bg-[rgba(0,76,201,0.2)] shrink-0 w-screen flex justify-center" style={bleedStyle}>
-          <div className="flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] w-[1280px] shrink-0" data-node-id="1:742">
+          <div className="flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] w-[1280px] shrink-0 rounded-[32px]" data-node-id="1:742">
             <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="1:743">
               <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] flex-col items-center min-w-px overflow-clip p-[12px] relative rounded-[16px]" data-node-id="1:744">
                 <div className="[word-break:break-word] content-stretch flex flex-col gap-[6px] items-start leading-[normal] relative shrink-0 text-[#1e1e1e] w-full" data-node-id="1:745">
@@ -1018,9 +1018,7 @@ export default function Frame2136141531() {
                   <p className="font-['Nunito_Sans'] font-semibold relative shrink-0 text-[16px] w-full whitespace-pre-wrap" data-node-id="1:747" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
                     {`I completely redesigned the flow:  removed unnecessary screens and combined the steps`}
                     <br aria-hidden />
-                    {`The user can now create a gift card `}
-                    <br aria-hidden />
-                    in 2 steps instead of 5.
+                    The user can now create a gift card in 2 steps instead of 5
                   </p>
                 </div>
               </div>
@@ -1065,24 +1063,24 @@ export default function Frame2136141531() {
                 How it was
               </p>
               <div className="content-stretch flex items-start justify-between relative shrink-0 w-full" data-node-id="1:762">
-                <div className="h-[485px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[220px]" data-node-id="1:763" data-name="image 2090010094">
-                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[16px] size-full" src={imgImage2090010100} />
+                <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[212.143px]" data-node-id="1:763" data-name="image 2090010094">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010100} />
                 </div>
-                <div className="h-[486.08px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[224px]" data-node-id="1:764" data-name="image 2090010095">
-                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[16px] size-full" src={imgImage2090010101} />
+                <div className="h-[468.72px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216px]" data-node-id="1:764" data-name="image 2090010095">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010101} />
                 </div>
-                <div className="h-[485px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[224px]" data-node-id="1:765" data-name="image 2090010096">
-                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[16px] size-full" src={imgImage2090010102} />
+                <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216px]" data-node-id="1:765" data-name="image 2090010096">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010102} />
                 </div>
-                <div className="h-[485px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[220px]" data-node-id="1:766" data-name="image 2090010097">
-                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[16px] size-full" src={imgImage2090010103} />
+                <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[212.143px]" data-node-id="1:766" data-name="image 2090010097">
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010103} />
                 </div>
-                <div className="h-[485px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[220px]" data-node-id="1:767" data-name="image 2090010098">
-                  <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[16px]">
-                    <div className="absolute inset-0 overflow-hidden rounded-[16px]">
+                <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[212.143px]" data-node-id="1:767" data-name="image 2090010098">
+                  <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[15.429px]">
+                    <div className="absolute inset-0 overflow-hidden rounded-[15.429px]">
                       <img alt="" className="absolute h-[101.43%] left-[-0.02%] max-w-none top-[-0.48%] w-[100.04%]" src={imgImage2090010098} />
                     </div>
-                    <img alt="" className="absolute max-w-none object-cover rounded-[16px] size-full" src={imgImage2090010104} />
+                    <img alt="" className="absolute max-w-none object-cover rounded-[15.429px] size-full" src={imgImage2090010104} />
                   </div>
                 </div>
               </div>
@@ -1092,24 +1090,24 @@ export default function Frame2136141531() {
                 As it turned out
               </p>
               <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="1:770">
-                <div className="h-[485px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[225px]" data-node-id="1:771" data-name="image 2090010094">
+                <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216.964px]" data-node-id="1:771" data-name="image 2090010094">
                   <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[16px]">
                     <img alt="" className="absolute h-full left-[-0.02%] max-w-none top-[0.12%] w-[99.61%]" src={imgImage2090010105} />
                   </div>
                 </div>
-                <div className="h-[486.08px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[224px]" data-node-id="1:772" data-name="image 2090010095">
-                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[16px] size-full" src={imgImage2090010106} />
+                <div className="h-[468.72px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216px]" data-node-id="1:772" data-name="image 2090010095">
+                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010106} />
                 </div>
-                <div className="h-[487.125px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[225px]" data-node-id="1:773" data-name="image 2090010096">
-                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[16px] size-full" src={imgImage2090010107} />
+                <div className="h-[469.728px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216.964px]" data-node-id="1:773" data-name="image 2090010096">
+                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010107} />
                 </div>
-                <div className="h-[485px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[225px]" data-node-id="1:774" data-name="image 2090010097">
-                  <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[16px]">
+                <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216.964px]" data-node-id="1:774" data-name="image 2090010097">
+                  <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.429px]">
                     <img alt="" className="absolute h-full left-[0.2%] max-w-none top-[0.03%] w-[99.61%]" src={imgImage2090010109} />
                   </div>
                 </div>
-                <div className="h-[485px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[224px]" data-node-id="1:775" data-name="image 2090010098">
-                  <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[16px]">
+                <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216px]" data-node-id="1:775" data-name="image 2090010098">
+                  <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.429px]">
                     <img alt="" className="absolute h-full left-[-0.02%] max-w-none top-0 w-[100.05%]" src={imgImage2090010110} />
                   </div>
                 </div>
@@ -1468,7 +1466,6 @@ export default function Frame2136141531() {
           </div>
         </div>
       </div>
-      <div className="bg-gradient-to-t from-[3.612%] from-[rgba(0,76,201,0.3)] to-[100.04%] to-[rgba(255,255,255,0.3)] shrink-0 w-screen flex justify-center" style={bleedStyle}>
       <div className="flex flex-col gap-[44px] h-[567px] items-center justify-center pb-[40px] pt-[24px] px-[80px] relative w-[1280px] shrink-0 overflow-hidden" data-node-id="1:904">
         <div className="absolute h-[397px] left-[1080px] top-[251.79px] w-[419px]" data-node-id="1:905" data-name="image 2090010110">
           <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage2090010112} />
@@ -1502,7 +1499,6 @@ export default function Frame2136141531() {
             </div>
           </div>
         </div>
-      </div>
       </div>
     </div>
     </div>
