@@ -1122,9 +1122,9 @@ export default function Frame2136141531() {
             </div>
           </div>
           <div className="bg-[rgba(0,76,201,0.2)] flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] w-full shrink-0 rounded-[32px]" data-node-id="1:785">
-            <div className="content-stretch flex gap-[16px] h-[194px] items-center relative shrink-0 w-full" data-node-id="1:786">
+            <div className="content-stretch flex gap-[16px] items-stretch relative shrink-0 w-full" data-node-id="1:786">
               <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] flex-col h-full items-center min-w-px overflow-clip p-[12px] relative rounded-[16px]" data-node-id="1:787">
-                <div className="[word-break:break-word] content-stretch flex flex-col gap-[6px] h-[170px] items-start relative shrink-0 text-[#1e1e1e] w-full" data-node-id="1:788">
+                <div className="[word-break:break-word] content-stretch flex flex-col gap-[6px] items-start relative shrink-0 text-[#1e1e1e] w-full" data-node-id="1:788">
                   <p className="font-['Nunito_Sans'] font-bold leading-[normal] relative shrink-0 text-[20px] w-full" data-node-id="1:789" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
                     Additional Services When Booking
                   </p>
