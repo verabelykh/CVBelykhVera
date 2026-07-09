@@ -906,7 +906,7 @@ export default function Frame2136141531() {
               The five-step order process, spread across several screens, created barriers for users—a long process, many clicks, and a high drop-off rate during the data entry stage
             </p>
           </div>
-          <div className="bg-[rgba(0,76,201,0.2)] flex gap-[44px] items-start justify-center pb-[40px] pt-[24px] px-[80px] w-full shrink-0 rounded-[32px]" data-node-id="1:720">
+          <div className="bg-[rgba(0,76,201,0.2)] flex gap-[44px] items-start justify-center pb-[40px] pt-[24px] px-[80px] shrink-0 rounded-[32px]" data-node-id="1:720">
             <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0" data-node-id="1:721">
               <p className="[word-break:break-word] font-['Nunito_Sans'] font-bold leading-[normal] min-w-full relative shrink-0 text-[#1e1e1e] text-[20px] w-[min-content]" data-node-id="1:722" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
                 How it was
