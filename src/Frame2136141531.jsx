@@ -923,8 +923,7 @@ export default function Frame2136141531() {
               The five-step order process, spread across several screens, created barriers for users—a long process, many clicks, and a high drop-off rate during the data entry stage
             </p>
           </div>
-          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 w-screen flex justify-center" style={bleedStyle}>
-          <div className="flex gap-[44px] items-start justify-center pb-[40px] pt-[24px] px-[80px] w-[1280px] shrink-0 rounded-[32px]" data-node-id="1:720">
+          <div className="bg-[rgba(0,76,201,0.2)] flex gap-[44px] items-start justify-center pb-[40px] pt-[24px] px-[80px] w-full shrink-0 rounded-[32px]" data-node-id="1:720">
             <div className="content-stretch flex flex-col gap-[20px] items-start relative shrink-0" data-node-id="1:721">
               <p className="[word-break:break-word] font-['Nunito_Sans'] font-bold leading-[normal] min-w-full relative shrink-0 text-[#1e1e1e] text-[20px] w-[min-content]" data-node-id="1:722" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
                 How it was
@@ -984,7 +983,6 @@ export default function Frame2136141531() {
               </div>
             </div>
           </div>
-          </div>
         </div>
       </div>
       <div className="content-stretch flex flex-col gap-[32px] items-start relative shrink-0 w-[1280px]" data-node-id="1:733">
@@ -1009,8 +1007,7 @@ export default function Frame2136141531() {
               We needed to completely redesign the section and increase purchase conversion
             </p>
           </div>
-          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 w-screen flex justify-center" style={bleedStyle}>
-          <div className="flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] w-[1280px] shrink-0 rounded-[32px]" data-node-id="1:742">
+          <div className="bg-[rgba(0,76,201,0.2)] flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] w-full shrink-0 rounded-[32px]" data-node-id="1:742">
             <div className="content-stretch flex gap-[16px] items-center relative shrink-0 w-full" data-node-id="1:743">
               <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] flex-col items-center min-w-px overflow-clip p-[12px] relative rounded-[16px]" data-node-id="1:744">
                 <div className="[word-break:break-word] content-stretch flex flex-col gap-[6px] items-start leading-[normal] relative shrink-0 text-[#1e1e1e] w-full" data-node-id="1:745">
@@ -1113,7 +1110,6 @@ export default function Frame2136141531() {
                 </div>
               </div>
             </div>
-          </div>
           </div>
         </div>
       </div>
