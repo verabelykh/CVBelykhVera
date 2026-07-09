@@ -78,24 +78,7 @@ const imgVector44 = "https://www.figma.com/api/mcp/asset/5ad1a2b3-fc34-429e-bb9d
 const imgVector45 = "https://www.figma.com/api/mcp/asset/280d4313-c276-4f2d-9aa0-fc3a9085d01c";
 const imgLine1 = "https://www.figma.com/api/mcp/asset/2315783e-7f58-4975-bb17-f1dc25096645";
 
-import { useState, useEffect } from "react";
-
-function useViewportWidth() {
-  const [vw, setVw] = useState(null);
-  useEffect(() => {
-    const update = () => setVw(document.documentElement.clientWidth);
-    update();
-    window.addEventListener("resize", update);
-    return () => window.removeEventListener("resize", update);
-  }, []);
-  return vw;
-}
-
 export default function Frame2136141531() {
-  const vw = useViewportWidth();
-  const bleedStyle = vw
-    ? { width: `${vw}px`, marginLeft: `${640 - vw / 2}px` }
-    : undefined;
   return (
     <div className="w-full bg-white flex justify-center overflow-x-auto overflow-y-visible">
     <div className="bg-white content-stretch flex flex-col gap-[80px] items-center px-[80px] pt-[100px] pb-0 relative w-[1440px] shrink-0" data-node-id="1:374">
@@ -1138,9 +1121,8 @@ export default function Frame2136141531() {
               <p className="leading-[24px]">Served as both product manager and design lead — coordinating tasks, managing priorities, and onboarding new employees</p>
             </div>
           </div>
-          <div className="bg-[rgba(0,76,201,0.2)] shrink-0 w-screen flex justify-center" style={bleedStyle}>
-          <div className="flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] w-[1280px] shrink-0" data-node-id="1:785">
-            <div className="content-stretch flex gap-[16px] h-[194px] items-center relative shrink-0 w-[1280px]" data-node-id="1:786">
+          <div className="bg-[rgba(0,76,201,0.2)] flex flex-col gap-[44px] items-start pb-[40px] pt-[24px] px-[80px] w-full shrink-0 rounded-[32px]" data-node-id="1:785">
+            <div className="content-stretch flex gap-[16px] h-[194px] items-center relative shrink-0 w-full" data-node-id="1:786">
               <div className="bg-[rgba(255,255,255,0.8)] content-stretch flex flex-[1_0_0] flex-col h-full items-center min-w-px overflow-clip p-[12px] relative rounded-[16px]" data-node-id="1:787">
                 <div className="[word-break:break-word] content-stretch flex flex-col gap-[6px] h-[170px] items-start relative shrink-0 text-[#1e1e1e] w-full" data-node-id="1:788">
                   <p className="font-['Nunito_Sans'] font-bold leading-[normal] relative shrink-0 text-[20px] w-full" data-node-id="1:789" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
@@ -1257,7 +1239,6 @@ export default function Frame2136141531() {
                 </div>
               </div>
             </div>
-          </div>
           </div>
         </div>
       </div>
