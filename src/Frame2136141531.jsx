@@ -1443,7 +1443,7 @@ export default function Frame2136141531() {
           </div>
         </div>
       </div>
-      <div className="flex flex-col gap-[44px] h-[567px] items-center justify-center pb-[40px] pt-[24px] px-[80px] relative w-[1280px] shrink-0 overflow-hidden" data-node-id="1:904">
+      <div className="flex flex-col gap-[44px] h-[567px] items-center justify-center pb-[40px] pt-[24px] px-[80px] relative w-[1280px] shrink-0" data-node-id="1:904">
         <div className="absolute h-[397px] left-[1080px] top-[251.79px] w-[419px]" data-node-id="1:905" data-name="image 2090010110">
           <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage2090010112} />
         </div>
