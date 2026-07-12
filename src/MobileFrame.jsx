@@ -1,3 +1,5 @@
+import checkoutAsItTurnedOut from "./assets/checkout-as-it-turned-out.png";
+
 import {
   imgFrame2136141452,
   imgImg54491,
@@ -6,7 +8,6 @@ import {
   imgImage2090010094,
   imgImage2090010095,
   imgImage2090010096,
-  imgImage2090010099,
   imgImage2090010100,
   imgImage2090010101,
   imgImage2090010102,
@@ -197,29 +198,17 @@ export default function MobileFrame() {
             </p>
           </div>
 
-          <div className="snap-start shrink-0 w-[85vw] max-w-[340px] bg-gradient-to-b from-[rgba(0,76,201,0.15)] to-[#004cc9] rounded-2xl p-4 flex flex-col gap-3">
-            <div>
-              <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
-                Metrics and aesthetics — not a contradiction
-              </p>
-              <p className="font-['Nunito_Sans'] font-semibold text-[14px] leading-[19px] text-[#1e1e1e] mt-1">
-                I believe that a beautiful product sells better. I strike a
-                balance between business goals and high-quality visuals
-              </p>
-            </div>
-            <div className="flex gap-2 flex-wrap mt-auto">
-              {["Metrics first", "Visual quality", "Conversion up"].map((t, i) => (
-                <span
-                  key={t}
-                  className={`font-['Nunito_Sans'] font-medium text-[13px] text-white rounded-full px-3 py-1.5 ${i === 0 ? "bg-[#063994]" : "border border-[#a4a4a4]"}`}
-                >
-                  {t}
-                </span>
-              ))}
-            </div>
+          <div className="snap-start shrink-0 w-[85vw] max-w-[340px] bg-gradient-to-b from-[rgba(0,76,201,0.15)] to-[#004cc9] rounded-2xl p-4 flex flex-col gap-3 min-h-[220px]">
+            <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
+              Metrics and aesthetics — not a contradiction
+            </p>
+            <p className="font-['Nunito_Sans'] font-semibold text-[14px] leading-[19px] text-[#1e1e1e]">
+              I believe that a beautiful product sells better. I strike a
+              balance between business goals and high-quality visuals
+            </p>
           </div>
 
-          <div className="snap-start shrink-0 w-[85vw] max-w-[340px] bg-gradient-to-b from-[rgba(0,76,201,0.15)] to-[#004cc9] rounded-2xl p-4 flex flex-col gap-3">
+          <div className="snap-start shrink-0 w-[85vw] max-w-[340px] bg-gradient-to-b from-[rgba(0,76,201,0.15)] to-[#004cc9] rounded-2xl p-4 flex flex-col gap-3 min-h-[220px]">
             <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
               I listen to people — I drive the product
             </p>
@@ -229,7 +218,7 @@ export default function MobileFrame() {
             </p>
           </div>
 
-          <div className="snap-start shrink-0 w-[85vw] max-w-[340px] bg-gradient-to-b from-[rgba(0,76,201,0.15)] to-[#004cc9] rounded-2xl p-4 flex flex-col gap-3">
+          <div className="snap-start shrink-0 w-[85vw] max-w-[340px] bg-gradient-to-b from-[rgba(0,76,201,0.15)] to-[#004cc9] rounded-2xl p-4 flex flex-col gap-3 min-h-[220px]">
             <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
               Systems thinking in Figma
             </p>
@@ -239,7 +228,6 @@ export default function MobileFrame() {
             </p>
           </div>
         </HScroll>
-        <Dots count={4} />
       </div>
 
       {/* CASES TITLE */}
@@ -276,7 +264,7 @@ export default function MobileFrame() {
               As it turned out
             </p>
             <div className="px-4">
-              <PhoneCard src={imgImage2090010099} className="w-full max-w-[260px] mx-auto" />
+              <PhoneCard src={checkoutAsItTurnedOut} className="w-full max-w-[260px] mx-auto" />
             </div>
           </div>
         </div>
