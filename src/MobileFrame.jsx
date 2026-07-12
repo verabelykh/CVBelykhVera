@@ -420,33 +420,31 @@ export default function MobileFrame() {
       {/* EXPERIENCE */}
       <div className="flex flex-col gap-4">
         <SectionTitle>Experience and Growth</SectionTitle>
-        <div className="px-4 flex gap-4">
-          <div className="relative w-6 shrink-0">
-            <div className="absolute left-1/2 -translate-x-1/2 top-2 bottom-2 w-px bg-[#004cc9]" />
-            {[0, 1, 2, 3, 4].map((i) => (
-              <div
-                key={i}
-                className={`absolute left-1/2 -translate-x-1/2 size-5 rounded-full border ${i < 2 ? "bg-[#004cc9] border-[#004cc9]" : "bg-[#6693de] border-[#6693de]"}`}
-                style={{ top: `${i * 110 + 8}px` }}
-              />
-            ))}
-          </div>
-          <div className="flex flex-col gap-8 flex-1">
-            {[
-              ["April 2026 – present", "Wildberries × RIV GOSH", "Senior Product Designer", "Checkout Optimization, Redesign of the Gift Card Section. Focus on Conversions and UX"],
-              ["January 2025 – April 2026", "Wildberries Travel", "Senior Product Designer", "+15% average check. Air travel: reservations, additional services, design system"],
-              ["June 2023 – January 2025", "Santehnika-online", "Product Designer", "Full cycle: JTBD, UX research, A/B testing, funnel optimization"],
-              ["December 2022 — June 2023", "Planet for me", "Middle UX/UI Designer", "Web and iOS/Android mobile apps. Implementing a design system in Figma"],
-              ["December 2021 – May 2022", "EcoManagement", "UI/UX Designer", "UX/UI Development for Websites and Apps. Design System, Personas, CJM"],
-            ].map(([date, company, role, desc]) => (
-              <div key={company} className="flex flex-col gap-1">
+        <div className="px-4 flex flex-col">
+          {[
+            ["April 2026 – present", "Wildberries × RIV GOSH", "Senior Product Designer", "Checkout Optimization, Redesign of the Gift Card Section. Focus on Conversions and UX", true],
+            ["January 2025 – April 2026", "Wildberries Travel", "Senior Product Designer", "+15% average check. Air travel: reservations, additional services, design system", true],
+            ["June 2023 – January 2025", "Santehnika-online", "Product Designer", "Full cycle: JTBD, UX research, A/B testing, funnel optimization", false],
+            ["December 2022 — June 2023", "Planet for me", "Middle UX/UI Designer", "Web and iOS/Android mobile apps. Implementing a design system in Figma", false],
+            ["December 2021 – May 2022", "EcoManagement", "UI/UX Designer", "UX/UI Development for Websites and Apps. Design System, Personas, CJM", false],
+          ].map(([date, company, role, desc, active], i, arr) => (
+            <div key={company} className="flex gap-4">
+              <div className="flex flex-col items-center w-5 shrink-0">
+                <div
+                  className={`size-5 rounded-full shrink-0 ${active ? "bg-[#004cc9]" : "bg-[#6693de]"}`}
+                />
+                {i < arr.length - 1 && (
+                  <div className="w-px flex-1 bg-[#004cc9] my-1" />
+                )}
+              </div>
+              <div className={`flex flex-col gap-1 ${i < arr.length - 1 ? "pb-8" : ""}`}>
                 <p className="font-['Nunito_Sans'] italic text-[12px] text-[#878787]">{date}</p>
                 <p className="font-['Nunito_Sans'] font-semibold text-[18px] text-[#1e1e1e]">{company}</p>
                 <p className="font-['Nunito_Sans'] font-extrabold text-[14px] text-[#004cc9]">{role}</p>
                 <p className="font-['Nunito_Sans'] italic text-[14px] leading-[18px] text-[#1e1e1e]">{desc}</p>
               </div>
-            ))}
-          </div>
+            </div>
+          ))}
         </div>
       </div>
 
