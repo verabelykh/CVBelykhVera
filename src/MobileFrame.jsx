@@ -35,7 +35,7 @@ import {
 function HScroll({ children, className = "" }) {
   return (
     <div
-      className={`flex overflow-x-auto gap-3 snap-x snap-mandatory px-4 pb-1 [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none] ${className}`}
+      className={`flex items-start overflow-x-auto gap-3 snap-x snap-mandatory px-4 pb-1 [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none] ${className}`}
     >
       {children}
     </div>
@@ -104,9 +104,9 @@ function InsightCard({ title, children, tone = "light" }) {
 function PhoneCard({ src, className = "" }) {
   return (
     <div
-      className={`snap-start shrink-0 h-[420px] w-[210px] rounded-[24px] overflow-hidden shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] ${className}`}
+      className={`snap-start shrink-0 w-[210px] rounded-[24px] overflow-hidden shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] ${className}`}
     >
-      <img alt="" src={src} className="w-full h-full object-contain bg-white" />
+      <img alt="" src={src} className="w-full h-auto block" />
     </div>
   );
 }
