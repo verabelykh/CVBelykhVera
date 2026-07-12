@@ -1,9 +1,6 @@
 import {
   imgFrame2136141452,
   imgImg54491,
-  imgDataDashboardEnglish1,
-  imgDataDashboardEnglish2,
-  imgDataDashboardEnglish3,
   imgImage2090010098,
   imgImage2090010097,
   imgImage2090010094,
@@ -37,7 +34,7 @@ import {
 function HScroll({ children, className = "" }) {
   return (
     <div
-      className={`flex overflow-x-auto gap-3 snap-x snap-mandatory px-4 -mx-4 pb-1 [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none] ${className}`}
+      className={`flex overflow-x-auto gap-3 snap-x snap-mandatory px-4 pb-1 [&::-webkit-scrollbar]:hidden [-ms-overflow-style:none] [scrollbar-width:none] ${className}`}
     >
       {children}
     </div>
@@ -108,7 +105,7 @@ function PhoneCard({ src, className = "" }) {
     <div
       className={`snap-start shrink-0 h-[420px] w-[210px] rounded-[24px] overflow-hidden shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] ${className}`}
     >
-      <img alt="" src={src} className="w-full h-full object-cover" />
+      <img alt="" src={src} className="w-full h-full object-contain bg-white" />
     </div>
   );
 }
@@ -189,20 +186,15 @@ export default function MobileFrame() {
       <div className="flex flex-col gap-3">
         <SectionTitle>Principles and Approach</SectionTitle>
         <HScroll>
-          <div className="snap-start shrink-0 w-[85vw] max-w-[340px] bg-gradient-to-b from-[rgba(0,76,201,0.15)] to-[#004cc9] rounded-2xl p-4 flex flex-col gap-3">
-            <div>
-              <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
-                Data before pixels
-              </p>
-              <p className="font-['Nunito_Sans'] font-semibold text-[14px] leading-[19px] text-[#1e1e1e] mt-1">
-                I don't implement changes without a rationale: hypothesis —
-                research — A/B testing — decision. Design is an argument, not
-                a matter of taste
-              </p>
-            </div>
-            <div className="relative rounded-xl overflow-hidden h-[160px] bg-[#0a1f4d]">
-              <img alt="" src={imgDataDashboardEnglish1} className="absolute inset-0 w-full h-full object-cover opacity-90" />
-            </div>
+          <div className="snap-start shrink-0 w-[85vw] max-w-[340px] bg-gradient-to-b from-[rgba(0,76,201,0.15)] to-[#004cc9] rounded-2xl p-4 flex flex-col gap-3 min-h-[220px]">
+            <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
+              Data before pixels
+            </p>
+            <p className="font-['Nunito_Sans'] font-semibold text-[14px] leading-[19px] text-[#1e1e1e]">
+              I don't implement changes without a rationale: hypothesis —
+              research — A/B testing — decision. Design is an argument, not
+              a matter of taste
+            </p>
           </div>
 
           <div className="snap-start shrink-0 w-[85vw] max-w-[340px] bg-gradient-to-b from-[rgba(0,76,201,0.15)] to-[#004cc9] rounded-2xl p-4 flex flex-col gap-3">
@@ -374,8 +366,8 @@ export default function MobileFrame() {
               Additional services
             </p>
             <div className="px-4 grid grid-cols-2 gap-3">
-              <img alt="" src={imgImage2090010087} className="rounded-2xl w-full aspect-[220/476] object-cover shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)]" />
-              <img alt="" src={imgImage2090010088} className="rounded-2xl w-full aspect-[220/476] object-cover shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)]" />
+              <img alt="" src={imgImage2090010087} className="rounded-2xl w-full object-contain shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)]" />
+              <img alt="" src={imgImage2090010088} className="rounded-2xl w-full object-contain shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)]" />
             </div>
           </div>
           <div className="flex flex-col gap-2">
@@ -383,8 +375,8 @@ export default function MobileFrame() {
               Search calendar with prices
             </p>
             <div className="px-4 grid grid-cols-2 gap-3">
-              <img alt="" src={imgImage2090010089} className="rounded-2xl w-full aspect-[220/476] object-cover shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)]" />
-              <img alt="" src={imgImage2090010090} className="rounded-2xl w-full aspect-[220/476] object-cover shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)]" />
+              <img alt="" src={imgImage2090010089} className="rounded-2xl w-full object-contain shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)]" />
+              <img alt="" src={imgImage2090010090} className="rounded-2xl w-full object-contain shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)]" />
             </div>
           </div>
           <div className="flex flex-col gap-2 px-4">
