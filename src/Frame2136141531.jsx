@@ -1,87 +1,129 @@
-const imgFrame2136141452 = "https://www.figma.com/api/mcp/asset/43c75c69-c6bf-4540-a168-068b422a41d5";
-const imgImg54491 = "https://www.figma.com/api/mcp/asset/d900b547-0be2-4219-b870-ce077662c6a9";
-const imgImage2090010108 = "https://www.figma.com/api/mcp/asset/4ffff1f1-0676-4b15-851a-aa293648a775";
-const imgImage2090010098 = "https://www.figma.com/api/mcp/asset/36838943-1047-4cd4-9d3c-3f86033be9fa";
-const imgImage2090010097 = "https://www.figma.com/api/mcp/asset/7c659c95-a225-4956-9a75-6d2ccc5da172";
-const imgImage2090010094 = "https://www.figma.com/api/mcp/asset/afb34bf9-d02c-436b-8f88-9bc9c1654cac";
-const imgImage2090010095 = "https://www.figma.com/api/mcp/asset/586f5b5b-1692-40e5-a2f2-9d673b1b67c6";
-const imgImage2090010096 = "https://www.figma.com/api/mcp/asset/d28dc269-fd10-4e4a-89b5-700f52c46e9e";
-const imgImage2090010099 = "https://www.figma.com/api/mcp/asset/87ad27ed-79c1-4219-bba0-5cf723777fbe";
-const imgImage2090010100 = "https://www.figma.com/api/mcp/asset/c10cf6b2-1046-4433-a9fd-0246757a4938";
-const imgImage2090010101 = "https://www.figma.com/api/mcp/asset/529cbc7a-ae7f-4118-8070-152225327a66";
-const imgImage2090010102 = "https://www.figma.com/api/mcp/asset/4224cccf-edc3-484d-b3d5-a5f2a54bc58e";
-const imgImage2090010103 = "https://www.figma.com/api/mcp/asset/13b60796-3352-43fe-bfb9-c5b2a04f4c0a";
-const imgImage2090010104 = "https://www.figma.com/api/mcp/asset/1b08e648-3051-4a71-a6f8-f7905ef37913";
-const imgImage2090010105 = "https://www.figma.com/api/mcp/asset/dca21993-72a0-457b-9a48-cac6a7fdbc66";
-const imgImage2090010106 = "https://www.figma.com/api/mcp/asset/4225b62f-79ae-47fb-889b-b142afb7355d";
-const imgImage2090010107 = "https://www.figma.com/api/mcp/asset/881b14c5-2a51-4e11-a00f-4204ea4424fc";
-const imgImage2090010109 = "https://www.figma.com/api/mcp/asset/b4c7a22c-208d-4417-b9fb-533f83528b9b";
-const imgImage2090010110 = "https://www.figma.com/api/mcp/asset/56ed8332-f1bd-4f88-a53d-aaef10b2fd9d";
-const imgImage2090010087 = "https://www.figma.com/api/mcp/asset/d7022a8f-56c0-464d-a2e9-6b7dc2cd4a96";
-const imgImage2090010088 = "https://www.figma.com/api/mcp/asset/388645ad-5c83-43ae-9c1d-d6f8e6f032d8";
-const imgImage2090010089 = "https://www.figma.com/api/mcp/asset/88cf6902-fb20-4008-a26a-099868f072a5";
-const imgImage2090010090 = "https://www.figma.com/api/mcp/asset/c4bc1287-e6d5-4f2f-a1fa-246e34bfbb58";
-const imgImage2090010091 = "https://www.figma.com/api/mcp/asset/2e5f3d17-a0e8-4cc1-a6cf-cd0b7cdf5d6b";
-const imgImage2090010092 = "https://www.figma.com/api/mcp/asset/3c7b6917-b88b-4bc3-b291-f40995ddef94";
-const imgImage2090010093 = "https://www.figma.com/api/mcp/asset/f1e9a457-3b2a-4657-a4aa-94bac1552ba8";
-const imgImage2090010111 = "https://www.figma.com/api/mcp/asset/4d1e4400-0624-4e38-aeaf-b74eaedc9baa";
-const imgImage2090010112 = "https://www.figma.com/api/mcp/asset/7acba26e-434a-4a88-93d8-301dcf78d89d";
-const imgImage2090010113 = "https://www.figma.com/api/mcp/asset/454ca8bc-16cd-4a2d-ac36-9288fe13e30c";
-const imgVector = "https://www.figma.com/api/mcp/asset/361fc744-8516-44be-8f52-6fc9da43ea0c";
-const imgVector1 = "https://www.figma.com/api/mcp/asset/d65eabc8-d152-4fe8-b1e8-83db0fc330a4";
-const imgVector2 = "https://www.figma.com/api/mcp/asset/fb9420b2-c390-4294-b723-b2fe9573f13e";
-const imgVector3 = "https://www.figma.com/api/mcp/asset/1103a4bb-e1da-41b6-8dfc-b173815703f3";
-const imgVector4 = "https://www.figma.com/api/mcp/asset/e7853bd3-04d2-4dfc-ac70-3a981fc68a38";
-const imgVector5 = "https://www.figma.com/api/mcp/asset/4232c9cf-52d5-4209-bd2e-143fb710992a";
-const imgVector6 = "https://www.figma.com/api/mcp/asset/f6955787-5357-4fa3-b1d5-ce08a13c7acd";
-const imgDataDashboardEnglish1 = "https://www.figma.com/api/mcp/asset/82454ef5-7f1e-4646-9bcc-01b8c40e0f93";
-const imgVector7 = "https://www.figma.com/api/mcp/asset/91fcde1b-76b6-4922-8f3c-3299c8632ef9";
-const imgDataDashboardEnglish2 = "https://www.figma.com/api/mcp/asset/03bba4c9-0dd8-4d0d-ad35-fc30119a03ac";
-const imgVector8 = "https://www.figma.com/api/mcp/asset/d1bea17a-bb10-491b-9f25-fe66e82e8f81";
-const imgVector9 = "https://www.figma.com/api/mcp/asset/5b0f5b0e-2f44-4cb0-bb03-c7e79d3ab029";
-const imgVector10 = "https://www.figma.com/api/mcp/asset/0583bbe7-b39f-4392-b9e3-528b8a3672aa";
-const imgVector11 = "https://www.figma.com/api/mcp/asset/78cc5ced-2c39-4cac-9a25-f00532b34c7e";
-const imgDataDashboardEnglish3 = "https://www.figma.com/api/mcp/asset/14241b4c-f54b-408d-93f2-a608f2dd8183";
-const imgVector12 = "https://www.figma.com/api/mcp/asset/c1380dc5-e350-4f41-b8e5-b1b615486684";
-const imgVector13 = "https://www.figma.com/api/mcp/asset/f202325d-1ad9-4661-b044-30c2f569e31a";
-const imgVector14 = "https://www.figma.com/api/mcp/asset/6f0f609e-ab7e-4b95-889c-8f0678e87196";
-const imgVector15 = "https://www.figma.com/api/mcp/asset/2b4be159-ee25-4a64-8a52-fd1bae06e1e4";
-const imgVector16 = "https://www.figma.com/api/mcp/asset/61340e40-128e-4cc7-a679-98db481af1ab";
-const imgVector17 = "https://www.figma.com/api/mcp/asset/52f30e96-1df6-4053-a62d-a2c0fefcf94d";
-const imgVector18 = "https://www.figma.com/api/mcp/asset/6f665579-2d06-4593-907b-484e586270c2";
-const imgVector19 = "https://www.figma.com/api/mcp/asset/b7088cb6-abf5-481e-a986-37f0a0c2cef5";
-const imgVector20 = "https://www.figma.com/api/mcp/asset/f6b1b4c2-2c82-4d93-a7b8-10f42fa5d5e0";
-const imgVector21 = "https://www.figma.com/api/mcp/asset/128dfe10-287e-4220-9341-0e2d966b5071";
-const imgVector22 = "https://www.figma.com/api/mcp/asset/00c9bbe5-144f-4111-b16f-2e4aea6bd1b6";
-const imgVector23 = "https://www.figma.com/api/mcp/asset/a0ee85af-2cad-4ed9-abea-a3cb6113afae";
-const imgVector24 = "https://www.figma.com/api/mcp/asset/ff99c953-4c6d-4def-a31d-62eb854ae7de";
-const imgVector25 = "https://www.figma.com/api/mcp/asset/47e389d4-9a27-498b-a8ac-004b685bd97a";
-const imgVector26 = "https://www.figma.com/api/mcp/asset/39d4694d-9a3b-45ea-b022-be475899e87d";
-const imgVector27 = "https://www.figma.com/api/mcp/asset/31e743c8-7bea-41ae-81b3-42f1b72be850";
-const imgVector28 = "https://www.figma.com/api/mcp/asset/7f888c44-5384-4571-a832-4d2b00eec10c";
-const imgVector29 = "https://www.figma.com/api/mcp/asset/35bd4460-597b-465a-a85d-9c937b6d3181";
-const imgVector30 = "https://www.figma.com/api/mcp/asset/f30b16e6-b138-4608-88aa-18b31860e3e1";
-const imgVector31 = "https://www.figma.com/api/mcp/asset/89930507-68c1-4c4c-ad5d-cf8010bebe07";
-const imgVector32 = "https://www.figma.com/api/mcp/asset/85b5d8d3-2bd8-4f83-a080-17eaf8b4c22d";
-const imgVector33 = "https://www.figma.com/api/mcp/asset/bf1098fb-275f-4ee3-a55d-046262fe1a69";
-const imgVector34 = "https://www.figma.com/api/mcp/asset/3fab202f-41a5-4c52-8c53-0770f801d48d";
-const imgVector35 = "https://www.figma.com/api/mcp/asset/838beee1-ac0e-4ce1-9b98-0a88b8a214cb";
-const imgVector36 = "https://www.figma.com/api/mcp/asset/48f5ea66-d150-4e77-9fcd-e21172712cb7";
-const imgVector37 = "https://www.figma.com/api/mcp/asset/ff70770a-e2d8-46ff-994b-7e7ec214725d";
-const imgVector38 = "https://www.figma.com/api/mcp/asset/e1fe1ad7-39dc-4d1e-a1fd-9abffb0d8f3a";
-const imgVector39 = "https://www.figma.com/api/mcp/asset/a9a7cf1d-0ac4-42f9-ab59-4807075b9370";
-const imgVector40 = "https://www.figma.com/api/mcp/asset/28a4bd1e-a07a-4437-b43e-4db468a447a1";
-const imgVector41 = "https://www.figma.com/api/mcp/asset/9cc59bc1-2784-48a1-b164-8a86bed6a550";
-const imgVector42 = "https://www.figma.com/api/mcp/asset/8166c7ea-01a0-4f95-af39-e5300fe748fb";
-const imgVector43 = "https://www.figma.com/api/mcp/asset/741a9866-c6e9-4217-aa79-f58f91580f99";
-const imgVector44 = "https://www.figma.com/api/mcp/asset/5ad1a2b3-fc34-429e-bb9d-bc1abca3f4ea";
-const imgVector45 = "https://www.figma.com/api/mcp/asset/280d4313-c276-4f2d-9aa0-fc3a9085d01c";
-const imgLine1 = "https://www.figma.com/api/mcp/asset/2315783e-7f58-4975-bb17-f1dc25096645";
+import {
+  imgFrame2136141452,
+  imgImg54491,
+  imgImage2090010108,
+  imgImage2090010098,
+  imgImage2090010097,
+  imgImage2090010094,
+  imgImage2090010095,
+  imgImage2090010096,
+  imgImage2090010099,
+  imgImage2090010100,
+  imgImage2090010101,
+  imgImage2090010102,
+  imgImage2090010103,
+  imgImage2090010104,
+  imgImage2090010105,
+  imgImage2090010106,
+  imgImage2090010107,
+  imgImage2090010109,
+  imgImage2090010110,
+  imgImage2090010087,
+  imgImage2090010088,
+  imgImage2090010089,
+  imgImage2090010090,
+  imgImage2090010091,
+  imgImage2090010092,
+  imgImage2090010093,
+  imgImage2090010111,
+  imgImage2090010112,
+  imgImage2090010113,
+  imgVector,
+  imgVector1,
+  imgVector2,
+  imgVector3,
+  imgVector4,
+  imgVector5,
+  imgVector6,
+  imgDataDashboardEnglish1,
+  imgVector7,
+  imgDataDashboardEnglish2,
+  imgVector8,
+  imgVector9,
+  imgVector10,
+  imgVector11,
+  imgDataDashboardEnglish3,
+  imgVector12,
+  imgVector13,
+  imgVector14,
+  imgVector15,
+  imgVector16,
+  imgVector17,
+  imgVector18,
+  imgVector19,
+  imgVector20,
+  imgVector21,
+  imgVector22,
+  imgVector23,
+  imgVector24,
+  imgVector25,
+  imgVector26,
+  imgVector27,
+  imgVector28,
+  imgVector29,
+  imgVector30,
+  imgVector31,
+  imgVector32,
+  imgVector33,
+  imgVector34,
+  imgVector35,
+  imgVector36,
+  imgVector37,
+  imgVector38,
+  imgVector39,
+  imgVector40,
+  imgVector41,
+  imgVector42,
+  imgVector43,
+  imgVector44,
+  imgVector45,
+  imgLine1,
+} from "./assets.js";
+
+
+import { useState, useEffect, useRef } from "react";
+
+const DESIGN_WIDTH = 1440;
+
+function useScaleToFit() {
+  const contentRef = useRef(null);
+  const [scale, setScale] = useState(1);
+  const [scaledHeight, setScaledHeight] = useState(null);
+
+  useEffect(() => {
+    const update = () => {
+      const vw = document.documentElement.clientWidth;
+      const nextScale = Math.min(1, vw / DESIGN_WIDTH);
+      setScale(nextScale);
+      if (contentRef.current) {
+        setScaledHeight(contentRef.current.offsetHeight * nextScale);
+      }
+    };
+    update();
+    window.addEventListener("resize", update);
+    const ro = new ResizeObserver(update);
+    if (contentRef.current) ro.observe(contentRef.current);
+    return () => {
+      window.removeEventListener("resize", update);
+      ro.disconnect();
+    };
+  }, []);
+
+  return { contentRef, scale, scaledHeight };
+}
 
 export default function Frame2136141531() {
+  const { contentRef, scale, scaledHeight } = useScaleToFit();
   return (
-    <div className="w-full bg-white flex justify-center overflow-x-auto overflow-y-visible">
-    <div className="bg-white content-stretch flex flex-col gap-[80px] items-center px-[80px] pt-[100px] pb-0 relative w-[1440px] shrink-0" data-node-id="1:374">
+    <div
+      className="w-full bg-white relative overflow-x-hidden"
+      style={scaledHeight ? { height: `${scaledHeight}px` } : undefined}
+    >
+    <div
+      ref={contentRef}
+      className="bg-white content-stretch flex flex-col gap-[80px] items-center px-[80px] pt-[100px] pb-0 w-[1440px] shrink-0 absolute top-0 left-1/2"
+      style={{ transform: `translateX(-50%) scale(${scale})`, transformOrigin: "top center" }}
+      data-node-id="1:374">
       <div className="content-stretch flex gap-[20px] items-end relative shrink-0 w-full" data-node-id="1:375">
         <div className="content-stretch flex flex-col gap-[24px] items-start relative shrink-0 w-[843px]" data-node-id="1:376">
           <div className="[word-break:break-word] content-stretch flex flex-col items-start relative shrink-0 w-full" data-node-id="1:377">
