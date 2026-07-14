@@ -1010,6 +1010,94 @@ export default function Frame2136141531() {
           </div>
         </div>
       </div>
+      <div className="content-stretch flex flex-col gap-[32px] items-start relative shrink-0 w-[1280px]" data-node-id="checkout-process">
+        <p className="font-['Nunito_Sans'] font-semibold text-[32px] text-black w-full">
+          The Process
+        </p>
+        <div className="flex flex-col gap-[28px] w-full">
+          <div className="flex flex-col gap-[6px]">
+            <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
+              1. The problem
+            </p>
+            <p className="font-['Nunito_Sans'] font-semibold text-[16px] leading-[22px] text-[#1e1e1e]">
+              The original checkout spread across 5 steps, and users had to manually
+              re-enter contact and delivery details even when that data already
+              existed in their profile. Drop-off was concentrated right at the
+              data-entry stage — the last point before conversion.
+            </p>
+          </div>
+          <div className="flex flex-col gap-[6px]">
+            <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
+              2. Hypothesis
+            </p>
+            <p className="font-['Nunito_Sans'] font-semibold text-[16px] leading-[22px] text-[#1e1e1e]">
+              Checkout is the last step of the funnel, so it needs to feel fast and
+              adaptive. If we removed redundant data entry — auto-filling saved
+              name, phone, email, and delivery address — and let the payment method
+              default to whatever was already linked, completion should improve,
+              leaving the user with essentially one active decision instead of five.
+            </p>
+          </div>
+          <div className="flex flex-col gap-[6px]">
+            <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
+              3. Discovery
+            </p>
+            <p className="font-['Nunito_Sans'] font-semibold text-[16px] leading-[22px] text-[#1e1e1e]">
+              Two parallel tracks: a competitive audit of how major marketplaces
+              structure checkout, and direct user research — hallway-style
+              interviews and observation during checkout. The competitive audit
+              alone wasn't conclusive: not every competitor uses a single-step
+              flow. It was the user research that made the direction clear —
+              people completed purchases with more confidence the fewer manual
+              inputs they had to handle.
+            </p>
+          </div>
+          <div className="flex flex-col gap-[6px]">
+            <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
+              4. Alternative considered
+            </p>
+            <p className="font-['Nunito_Sans'] font-semibold text-[16px] leading-[22px] text-[#1e1e1e]">
+              Before committing, I weighed staying closer to the multi-step
+              pattern several competitors use — breaking checkout into discrete
+              stages — against consolidating everything into one adaptive page
+              that pre-fills known data. Competitor precedent didn't settle it on
+              its own; combined with the interview findings, the single-page,
+              autofill-first approach was the stronger case.
+            </p>
+          </div>
+          <div className="flex flex-col gap-[6px]">
+            <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
+              5. Solution
+            </p>
+            <p className="font-['Nunito_Sans'] font-semibold text-[16px] leading-[22px] text-[#1e1e1e]">
+              The redesigned checkout collapses the flow to effectively one step:
+              saved contact and delivery details are pre-filled automatically,
+              and an already-linked payment method is pre-selected — leaving the
+              user with a single active decision instead of five sequential ones.
+            </p>
+          </div>
+          <div className="flex flex-col gap-[6px]">
+            <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
+              6. Result
+            </p>
+            <p className="font-['Nunito_Sans'] font-semibold text-[16px] leading-[22px] text-[#1e1e1e]">
+              Drop-off at the data-entry stage decreased, and the path from cart
+              to a paid order became noticeably shorter.
+            </p>
+          </div>
+          <div className="flex flex-col gap-[6px]">
+            <p className="font-['Nunito_Sans'] font-bold text-[19px] text-[#1e1e1e]">
+              7. What I'd do differently
+            </p>
+            <p className="font-['Nunito_Sans'] font-semibold text-[16px] leading-[22px] text-[#1e1e1e]">
+              I'd set up a formal A/B test of the single-page flow against the
+              multi-step pattern from the start, rather than relying mainly on
+              qualitative interviews to validate the direction — that would have
+              given a cleaner, quantified read on the impact before full rollout.
+            </p>
+          </div>
+        </div>
+      </div>
       <div className="content-stretch flex flex-col gap-[32px] items-start relative shrink-0 w-[1280px]" data-node-id="1:733">
         <div className="content-stretch flex flex-col items-start relative shrink-0" data-node-id="1:734">
           <div className="[word-break:break-word] content-stretch flex flex-col font-['Nunito_Sans'] font-semibold gap-[2px] items-start relative shrink-0 whitespace-nowrap" data-node-id="1:735">
