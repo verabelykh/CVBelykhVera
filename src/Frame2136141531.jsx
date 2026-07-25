@@ -1,39 +1,85 @@
 import {
   imgFrame2136141452,
+  imgImg54491,
+  imgImage2090010108,
+  imgImage2090010098,
+  imgImage2090010097,
+  imgImage2090010094,
+  imgImage2090010095,
+  imgImage2090010096,
+  imgImage2090010099,
+  imgImage2090010100,
+  imgImage2090010101,
+  imgImage2090010102,
+  imgImage2090010103,
+  imgImage2090010104,
+  imgImage2090010105,
+  imgImage2090010106,
+  imgImage2090010107,
+  imgImage2090010109,
+  imgImage2090010110,
+  imgImage2090010087,
+  imgImage2090010088,
   imgImage2090010089,
   imgImage2090010090,
+  imgImage2090010091,
+  imgImage2090010092,
+  imgImage2090010093,
+  imgImage2090010111,
+  imgImage2090010112,
+  imgImage2090010113,
+  imgVector,
+  imgVector1,
+  imgVector2,
+  imgVector3,
+  imgVector4,
+  imgVector5,
+  imgVector6,
+  imgDataDashboardEnglish1,
+  imgVector7,
+  imgDataDashboardEnglish2,
+  imgVector8,
+  imgVector9,
+  imgVector10,
+  imgVector11,
+  imgDataDashboardEnglish3,
+  imgVector12,
+  imgVector13,
+  imgVector14,
+  imgVector15,
+  imgVector16,
+  imgVector17,
+  imgVector18,
+  imgVector19,
+  imgVector20,
+  imgVector21,
+  imgVector22,
+  imgVector23,
+  imgVector24,
+  imgVector25,
+  imgVector26,
+  imgVector27,
+  imgVector28,
+  imgVector29,
+  imgVector30,
+  imgVector31,
+  imgVector32,
+  imgVector33,
+  imgVector34,
+  imgVector35,
+  imgVector36,
+  imgVector37,
+  imgVector38,
+  imgVector39,
+  imgVector40,
+  imgVector41,
+  imgVector42,
+  imgVector43,
+  imgVector44,
   imgVector45,
   imgLine1,
 } from "./assets.js";
 
-import heroPortrait from "./assets/photos/hero-portrait.png";
-import dashboardIllustration from "./assets/photos/dashboard-illustration.png";
-import keyboardIllustration from "./assets/photos/keyboard-illustration.png";
-import listenToPeopleBg from "./assets/photos/listen-to-people-bg.png";
-import footerHeartLeft from "./assets/photos/footer-heart-left.png";
-import footerHeartRight from "./assets/photos/footer-heart-right.png";
-import travelService1 from "./assets/photos/travel-service-1.png";
-import travelService2 from "./assets/photos/travel-service-2.png";
-import travelReservation1 from "./assets/photos/travel-reservation-1.png";
-import travelReservation2 from "./assets/photos/travel-reservation-2.png";
-import travelReservation3 from "./assets/photos/travel-reservation-3.png";
-import travelMigration from "./assets/photos/travel-migration.png";
-import checkoutCollage1 from "./assets/photos/checkout-collage-1.png";
-import checkoutCollage2 from "./assets/photos/checkout-collage-2.png";
-import checkoutCollage3 from "./assets/photos/checkout-collage-3.png";
-import checkoutCollage4 from "./assets/photos/checkout-collage-4.png";
-import checkoutCollage5 from "./assets/photos/checkout-collage-5.png";
-import checkoutTurned from "./assets/photos/checkout-turned.png";
-import giftcardHow1 from "./assets/photos/giftcard-how-1.png";
-import giftcardHow2 from "./assets/photos/giftcard-how-2.png";
-import giftcardHow3 from "./assets/photos/giftcard-how-3.png";
-import giftcardHow4 from "./assets/photos/giftcard-how-4.png";
-import giftcardHow5Overlay from "./assets/photos/giftcard-how-5-overlay.png";
-import giftcardTurned1 from "./assets/photos/giftcard-turned-1.png";
-import giftcardTurned2 from "./assets/photos/giftcard-turned-2.png";
-import giftcardTurned3 from "./assets/photos/giftcard-turned-3.png";
-import giftcardTurned4 from "./assets/photos/giftcard-turned-4.png";
-import giftcardTurned5 from "./assets/photos/giftcard-turned-5.png";
 
 import { useState, useEffect, useRef } from "react";
 
@@ -91,7 +137,7 @@ export default function Frame2136141531() {
           <div className="h-[479px] overflow-clip relative rounded-[20px] shrink-0 w-full" data-node-id="1:380">
             <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[20px] size-full" src={imgFrame2136141452} />
             <div className="absolute h-[740px] left-0 top-[-103px] w-[987px]" data-node-id="1:381" data-name="IMG_5449 1">
-              <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={heroPortrait} />
+              <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImg54491} />
             </div>
             <div className="absolute h-[310px] left-0 overflow-clip top-[169px] w-[843px]" data-node-id="1:382">
               <div aria-hidden className="absolute bg-gradient-to-b from-[rgba(255,255,255,0)] inset-0 mix-blend-multiply pointer-events-none to-[rgba(22,88,194,0.6)]" />
@@ -179,7 +225,243 @@ export default function Frame2136141531() {
                 </p>
               </div>
               <div className="absolute h-[302.647px] left-[164px] overflow-clip top-[163px] w-[490px]" data-node-id="1:417" data-name="data_dashboard_english 1">
-                <img alt="" className="absolute inset-0 max-w-none object-contain size-full" src={dashboardIllustration} />
+                <div className="absolute inset-[4.76%_2.94%]" data-node-id="1:418" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector} />
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[9.05%_76.97%_86.99%_5.88%] leading-[normal] not-italic text-[10.088px] text-white whitespace-nowrap" data-node-id="1:419">
+                  Product Analytics
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[13.81%_65.95%_82.89%_5.88%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:420">
+                  Q2 2025 — hypothesis confirmed
+                </p>
+                <div className="absolute inset-[8.57%_17.65%_86.67%_70.59%]" data-node-id="1:421" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector1} />
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[9.05%_17.58%_87.65%_70.59%] leading-[normal] not-italic text-[#dedede] text-[8.647px] text-center whitespace-nowrap" data-node-id="1:422">
+                  ↑ A/B passed
+                </p>
+                <div className="absolute inset-[8.57%_5.88%_86.67%_83.53%]" data-node-id="1:423" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector2} />
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[9.05%_9.47%_87.65%_87.06%] leading-[normal] not-italic text-[#dedede] text-[8.647px] text-center whitespace-nowrap" data-node-id="1:424">
+                  Live
+                </p>
+                <div className="absolute inset-[19.52%_5.88%_80.48%_5.88%]" data-node-id="1:425" data-name="Vector">
+                  <div className="absolute inset-[-0.18px_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector3} />
+                  </div>
+                </div>
+                <div className="absolute bottom-[60.95%] left-[5.88%] right-3/4 top-[21.9%]" data-node-id="1:426" data-name="Vector">
+                  <div className="absolute inset-[-0.35%_-0.19%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector4} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[23.81%_78.3%_72.89%_8.24%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:427">
+                  Avg. order value
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[27.62%_81.97%_64.78%_8.24%] leading-[normal] not-italic text-[#e24b4a] text-[18.735px] whitespace-nowrap" data-node-id="1:428">
+                  +15%
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[34.29%_80.54%_62.41%_8.24%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:429">
+                  after A/B test
+                </p>
+                <div className="absolute inset-[21.9%_54.12%_60.95%_26.76%]" data-node-id="1:430" data-name="Vector">
+                  <div className="absolute inset-[-0.35%_-0.19%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector4} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[23.81%_59.86%_72.89%_29.12%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:431">
+                  Drop-off rate
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[27.62%_60.47%_64.78%_29.12%] leading-[normal] not-italic text-[#378add] text-[18.735px] whitespace-nowrap" data-node-id="1:432">
+                  −23%
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[34.29%_60.88%_62.41%_29.12%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:433">
+                  at checkout
+                </p>
+                <div className="absolute inset-[21.9%_33.24%_60.95%_47.65%]" data-node-id="1:434" data-name="Vector">
+                  <div className="absolute inset-[-0.35%_-0.19%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector4} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute bottom-[72.89%] font-['Inter'] font-normal leading-[normal] left-1/2 not-italic right-[36.73%] text-[#dedede] text-[8.647px] top-[23.81%] whitespace-nowrap" data-node-id="1:435">
+                  Conversion rate
+                </p>
+                <p className="[word-break:break-word] absolute bottom-[64.78%] font-['Inter'] font-normal leading-[normal] left-1/2 not-italic right-[41.22%] text-[#1d9e75] text-[18.735px] top-[27.62%] whitespace-nowrap" data-node-id="1:436">
+                  4.8%
+                </p>
+                <p className="[word-break:break-word] absolute bottom-[62.41%] font-['Inter'] font-normal leading-[normal] left-1/2 not-italic right-[43.88%] text-[#dedede] text-[8.647px] top-[34.29%] whitespace-nowrap" data-node-id="1:437">
+                  +1.2 pp
+                </p>
+                <div className="absolute inset-[21.9%_5.88%_60.95%_68.53%]" data-node-id="1:438" data-name="Vector">
+                  <div className="absolute inset-[-0.35%_-0.14%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector5} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[23.81%_13.2%_72.89%_70.88%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:439">
+                  Hypotheses tested
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[27.62%_24.83%_64.78%_70.88%] leading-[normal] not-italic text-[18.735px] text-white whitespace-nowrap" data-node-id="1:440">
+                  12
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[34.29%_18.91%_62.41%_70.88%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:441">
+                  8 confirmed
+                </p>
+                <div className="absolute inset-[42.86%_44.12%_9.52%_5.88%]" data-node-id="1:442" data-name="Vector">
+                  <div className="absolute inset-[-0.13%_0_-0.12%_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector6} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[44.76%_78.5%_51.93%_8.24%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:443">
+                  Weekly revenue
+                </p>
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgDataDashboardEnglish1} />
+                <div className="absolute inset-[55.95%_46.47%_44.05%_8.24%]" data-node-id="1:477" data-name="Vector">
+                  <div className="absolute inset-[-0.18px_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector7} />
+                  </div>
+                </div>
+                <div className="absolute inset-[60.71%_46.47%_39.29%_8.24%]" data-node-id="1:478" data-name="Vector">
+                  <div className="absolute inset-[-0.18px_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector7} />
+                  </div>
+                </div>
+                <div className="absolute inset-[65.48%_46.47%_34.52%_8.24%]" data-node-id="1:479" data-name="Vector">
+                  <div className="absolute inset-[-0.18px_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector7} />
+                  </div>
+                </div>
+                <div className="absolute inset-[70.24%_46.47%_29.76%_8.24%]" data-node-id="1:480" data-name="Vector">
+                  <div className="absolute inset-[-0.18px_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector7} />
+                  </div>
+                </div>
+                <div className="absolute bottom-1/4 left-[8.24%] right-[46.47%] top-3/4" data-node-id="1:481" data-name="Vector">
+                  <div className="absolute inset-[-0.18px_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector7} />
+                  </div>
+                </div>
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgDataDashboardEnglish2} />
+                <div className="absolute inset-[72.62%_85.88%_15.48%_10.59%]" data-node-id="1:515" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector8} />
+                </div>
+                <div className="absolute inset-[70.24%_79.41%_15.48%_17.06%]" data-node-id="1:516" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector9} />
+                </div>
+                <div className="absolute inset-[67.86%_72.94%_15.48%_23.53%]" data-node-id="1:517" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector10} />
+                </div>
+                <div className="absolute inset-[65.48%_66.47%_15.48%_30%]" data-node-id="1:518" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector11} />
+                </div>
+                <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgDataDashboardEnglish3} />
+                <div className="absolute inset-[51.19%_60.29%_45.48%_33.53%]" data-node-id="1:552" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector12} />
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[50.71%_61.87%_45.98%_35.07%] leading-[normal] not-italic text-[#dedede] text-[8.647px] text-center whitespace-nowrap" data-node-id="1:553">
+                  A/B
+                </p>
+                <div className="absolute inset-[61.43%_60%_15.48%_36.47%]" data-node-id="1:554" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector13} />
+                </div>
+                <div className="absolute inset-[57.86%_53.53%_15.48%_42.94%]" data-node-id="1:555" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector14} />
+                </div>
+                <div className="absolute inset-[55.24%_47.06%_15.48%_49.41%]" data-node-id="1:556" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector15} />
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[84.76%_86.24%_11.93%_11.1%] leading-[normal] not-italic text-[#dedede] text-[8.647px] text-center whitespace-nowrap" data-node-id="1:557">
+                  W1
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[84.76%_79.72%_11.93%_17.43%] leading-[normal] not-italic text-[#dedede] text-[8.647px] text-center whitespace-nowrap" data-node-id="1:558">
+                  W2
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[84.76%_73.32%_11.93%_23.82%] leading-[normal] not-italic text-[#dedede] text-[8.647px] text-center whitespace-nowrap" data-node-id="1:559">
+                  W3
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[84.76%_66.78%_11.93%_30.37%] leading-[normal] not-italic text-[#dedede] text-[8.647px] text-center whitespace-nowrap" data-node-id="1:560">
+                  W4
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[84.76%_60.3%_11.93%_36.84%] leading-[normal] not-italic text-[#dedede] text-[8.647px] text-center whitespace-nowrap" data-node-id="1:561">
+                  W5
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[84.76%_53.83%_11.93%_43.31%] leading-[normal] not-italic text-[#dedede] text-[8.647px] text-center whitespace-nowrap" data-node-id="1:562">
+                  W6
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[84.76%_47.36%_11.93%_49.78%] leading-[normal] not-italic text-[#dedede] text-[8.647px] text-center whitespace-nowrap" data-node-id="1:563">
+                  W7
+                </p>
+                <div className="absolute inset-[42.86%_5.88%_9.52%_57.94%]" data-node-id="1:564" data-name="Vector">
+                  <div className="absolute inset-[-0.13%_-0.1%_-0.12%_-0.1%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector16} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[44.76%_24.6%_51.93%_60.29%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:565">
+                  Funnel conversion
+                </p>
+                <div className="absolute inset-[59.05%_9.41%_15.48%_61.18%]" data-node-id="1:566" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector17} />
+                </div>
+                <div className="absolute inset-[59.05%_11.76%_19.05%_61.18%]" data-node-id="1:567" data-name="Vector">
+                  <div className="absolute inset-[-1.09%_-0.54%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector18} />
+                  </div>
+                </div>
+                <div className="absolute inset-[80.24%_38.38%_18.33%_60.74%]" data-node-id="1:568" data-name="Vector">
+                  <div className="absolute inset-[-12.5%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector19} />
+                  </div>
+                </div>
+                <div className="absolute bottom-[23.57%] left-[67.21%] right-[31.91%] top-3/4" data-node-id="1:569" data-name="Vector">
+                  <div className="absolute inset-[-12.5%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector19} />
+                  </div>
+                </div>
+                <div className="absolute inset-[70.24%_23.68%_28.33%_75.44%]" data-node-id="1:570" data-name="Vector">
+                  <div className="absolute inset-[-12.5%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector19} />
+                  </div>
+                </div>
+                <div className="absolute inset-[62.38%_15.44%_36.19%_83.68%]" data-node-id="1:571" data-name="Vector">
+                  <div className="absolute inset-[-12.5%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector19} />
+                  </div>
+                </div>
+                <div className="absolute inset-[57.86%_11.03%_39.76%_87.5%]" data-node-id="1:572" data-name="Vector">
+                  <div className="absolute inset-[-10%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector20} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[55.48%_6.51%_41.22%_89.41%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:573">
+                  4.8%
+                </p>
+                <div className="absolute inset-[84.52%_7.35%_15.48%_60.29%]" data-node-id="1:574" data-name="Vector">
+                  <div className="absolute inset-[-0.18px_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector21} />
+                  </div>
+                </div>
+                <div className="absolute inset-[73.81%_7.35%_26.19%_60.29%]" data-node-id="1:575" data-name="Vector">
+                  <div className="absolute inset-[-0.18px_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector22} />
+                  </div>
+                </div>
+                <div className="absolute inset-[63.1%_7.35%_36.9%_60.29%]" data-node-id="1:576" data-name="Vector">
+                  <div className="absolute inset-[-0.18px_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector22} />
+                  </div>
+                </div>
+                <div className="absolute inset-[88.1%_39.71%_10.95%_58.82%]" data-node-id="1:577" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector23} />
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[86.67%_29.53%_10.03%_60.88%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:578">
+                  Conversion
+                </p>
+                <div className="absolute inset-[88.1%_27.35%_10.95%_71.18%]" data-node-id="1:579" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector24} />
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[86.67%_19.42%_10.03%_73.24%] leading-[normal] not-italic text-[#dedede] text-[8.647px] whitespace-nowrap" data-node-id="1:580">
+                  Post A/B
+                </p>
               </div>
               <div className="-translate-x-1/2 absolute bg-gradient-to-b blur-[18.15px] from-[#205dbf] h-[87px] left-1/2 to-[#004cc9] top-[356px] w-[724px]" data-node-id="1:581" />
             </div>
@@ -216,7 +498,7 @@ export default function Frame2136141531() {
           <div className="content-stretch flex gap-[20px] items-center overflow-clip relative shrink-0 w-full" data-node-id="1:593">
             <div className="bg-gradient-to-b content-stretch flex flex-col from-[rgba(0,76,201,0.2)] gap-[8px] h-[392px] items-center overflow-clip p-[24px] relative rounded-[20px] shrink-0 to-[#004cc9] w-[630px]" data-node-id="1:594">
               <div className="absolute left-[-12px] mix-blend-soft-light opacity-50 size-[642px] top-[-113px]" data-node-id="1:595" data-name="image 2090010108">
-                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={listenToPeopleBg} />
+                <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage2090010108} />
               </div>
               <div className="[word-break:break-word] content-stretch flex flex-col gap-[12px] items-start leading-[normal] relative shrink-0 text-[#1e1e1e] w-full" data-node-id="1:596">
                 <p className="font-['Nunito_Sans'] font-bold relative shrink-0 text-[24px] w-full" data-node-id="1:597" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
@@ -240,7 +522,395 @@ export default function Frame2136141531() {
                 </p>
               </div>
               <div className="absolute h-[340.826px] left-[211px] overflow-clip top-[136px] w-[603px]" data-node-id="1:603" data-name="keyboard_shift_a_blue 1">
-                <img alt="" className="absolute inset-0 max-w-none object-contain size-full" src={keyboardIllustration} />
+                <div className="absolute inset-[0_1.45%_2.56%_0]" data-node-id="1:604" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector25} />
+                </div>
+                <div className="absolute inset-[0_1.45%_2.56%_0]" data-node-id="1:605" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector26} />
+                </div>
+                <div className="absolute inset-[76.92%_62.32%_12.82%_20.29%]" data-node-id="1:606" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector27} />
+                </div>
+                <div className="absolute inset-[82.56%_33.33%_8.21%_43.48%]" data-node-id="1:607" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector28} />
+                </div>
+                <div className="absolute inset-[75.38%_14.49%_16.41%_71.01%]" data-node-id="1:608" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector29} />
+                </div>
+                <div className="absolute inset-[4.62%_89.86%_86.67%_2.61%]" data-node-id="1:609" data-name="Vector">
+                  <div className="absolute inset-[-0.74%_-0.48%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector30} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[6.92%_92.35%_89.56%_5%] leading-[normal] not-italic text-[#1e1e1e] text-[9.613px] text-center whitespace-nowrap" data-node-id="1:610">
+                  esc
+                </p>
+                <div className="absolute inset-[4.62%_82.03%_86.67%_11.88%]" data-node-id="1:611" data-name="Vector">
+                  <div className="absolute inset-[-0.74%_-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector31} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[5.9%_84.3%_91.17%_14.2%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] text-center whitespace-nowrap" data-node-id="1:612">
+                  ☀
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[9.23%_84.3%_87.84%_14.2%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] text-center whitespace-nowrap" data-node-id="1:613">
+                  F1
+                </p>
+                <div className="absolute inset-[4.62%_74.78%_86.67%_19.13%]" data-node-id="1:614" data-name="Vector">
+                  <div className="absolute inset-[-0.74%_-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector31} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[5.9%_77.06%_91.17%_21.45%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] text-center whitespace-nowrap" data-node-id="1:615">
+                  ☀
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[9.23%_76.96%_87.84%_21.38%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] text-center whitespace-nowrap" data-node-id="1:616">
+                  F2
+                </p>
+                <div className="absolute inset-[4.62%_67.54%_86.67%_26.38%]" data-node-id="1:617" data-name="Vector">
+                  <div className="absolute inset-[-0.74%_-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector31} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[7.44%_70.09%_89.63%_28.91%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] text-center whitespace-nowrap" data-node-id="1:618">
+                  ⊞
+                </p>
+                <div className="absolute inset-[4.62%_60.29%_86.67%_33.62%]" data-node-id="1:619" data-name="Vector">
+                  <div className="absolute inset-[-0.74%_-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector31} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[7.44%_62.85%_89.63%_36.16%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] text-center whitespace-nowrap" data-node-id="1:620">
+                  ⊟
+                </p>
+                <div className="absolute inset-[4.62%_53.04%_86.67%_40.87%]" data-node-id="1:621" data-name="Vector">
+                  <div className="absolute inset-[-0.74%_-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector31} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[7.44%_55.41%_89.63%_43.26%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] text-center whitespace-nowrap" data-node-id="1:622">
+                  —
+                </p>
+                <div className="absolute inset-[4.62%_45.8%_86.67%_48.12%]" data-node-id="1:623" data-name="Vector">
+                  <div className="absolute inset-[-0.74%_-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector31} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[7.44%_48.17%_89.63%_50.51%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] text-center whitespace-nowrap" data-node-id="1:624">
+                  —
+                </p>
+                <div className="absolute inset-[4.62%_38.55%_86.67%_55.36%]" data-node-id="1:625" data-name="Vector">
+                  <div className="absolute inset-[-0.74%_-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector31} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[7.44%_40.34%_89.63%_57.17%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] text-center whitespace-nowrap" data-node-id="1:626">
+                  ◀◀
+                </p>
+                <div className="absolute inset-[15.9%_91.3%_73.33%_2.61%]" data-node-id="1:627" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[16.67%_94.66%_80.4%_4.35%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] whitespace-nowrap" data-node-id="1:628">
+                  ~
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[20.26%_94.99%_76.81%_4.35%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] whitespace-nowrap" data-node-id="1:629">
+                  `
+                </p>
+                <div className="absolute inset-[15.9%_84.06%_73.33%_9.86%]" data-node-id="1:630" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[16.67%_87.91%_80.4%_11.59%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] whitespace-nowrap" data-node-id="1:631">
+                  !
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[20.51%_87.12%_75.09%_11.88%] leading-[normal] not-italic text-[#1e1e1e] text-[12.235px] whitespace-nowrap" data-node-id="1:632">
+                  1
+                </p>
+                <div className="absolute inset-[15.9%_76.81%_73.33%_17.1%]" data-node-id="1:633" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[16.67%_79.83%_80.4%_18.84%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] whitespace-nowrap" data-node-id="1:634">
+                  @
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[20.51%_79.54%_75.09%_19.13%] leading-[normal] not-italic text-[#1e1e1e] text-[12.235px] whitespace-nowrap" data-node-id="1:635">
+                  2
+                </p>
+                <div className="absolute inset-[15.9%_69.57%_73.33%_24.35%]" data-node-id="1:636" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[16.67%_73.08%_80.4%_26.09%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] whitespace-nowrap" data-node-id="1:637">
+                  #
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[20.51%_72.3%_75.09%_26.38%] leading-[normal] not-italic text-[#1e1e1e] text-[12.235px] whitespace-nowrap" data-node-id="1:638">
+                  3
+                </p>
+                <div className="absolute inset-[15.9%_62.32%_73.33%_31.59%]" data-node-id="1:639" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[16.67%_65.67%_80.4%_33.33%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] whitespace-nowrap" data-node-id="1:640">
+                  $
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[20.51%_65.05%_75.09%_33.62%] leading-[normal] not-italic text-[#1e1e1e] text-[12.235px] whitespace-nowrap" data-node-id="1:641">
+                  4
+                </p>
+                <div className="absolute inset-[15.9%_55.07%_73.33%_38.84%]" data-node-id="1:642" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[16.67%_58.26%_80.4%_40.58%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] whitespace-nowrap" data-node-id="1:643">
+                  %
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[20.51%_57.8%_75.09%_40.87%] leading-[normal] not-italic text-[#1e1e1e] text-[12.235px] whitespace-nowrap" data-node-id="1:644">
+                  5
+                </p>
+                <div className="absolute inset-[15.9%_47.83%_73.33%_46.09%]" data-node-id="1:645" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[16.67%_51.51%_80.4%_47.83%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] whitespace-nowrap" data-node-id="1:646">
+                  ^
+                </p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[20.51%_50.56%_75.09%_48.12%] leading-[normal] not-italic text-[#1e1e1e] text-[12.235px] whitespace-nowrap" data-node-id="1:647">
+                  6
+                </p>
+                <div className="absolute inset-[15.9%_40.58%_73.33%_53.33%]" data-node-id="1:648" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[16.67%_43.93%_80.4%_55.07%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] whitespace-nowrap" data-node-id="1:649">{`&`}</p>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[20.51%_43.48%_75.09%_55.36%] leading-[normal] not-italic text-[#1e1e1e] text-[12.235px] whitespace-nowrap" data-node-id="1:650">
+                  7
+                </p>
+                <div className="absolute inset-[29.23%_88.41%_60%_2.61%]" data-node-id="1:651" data-name="Vector">
+                  <div className="absolute inset-[-0.6%_-0.4%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector33} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[32.82%_93.31%_63.66%_4.2%] leading-[normal] not-italic text-[#1e1e1e] text-[9.613px] text-center whitespace-nowrap" data-node-id="1:652">
+                  tab
+                </p>
+                <div className="absolute inset-[29.23%_81.16%_60%_12.75%]" data-node-id="1:653" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[32.05%_83.32%_62.96%_14.86%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:654">
+                  Q
+                </p>
+                <div className="absolute inset-[29.23%_73.91%_60%_20%]" data-node-id="1:655" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[32.05%_75.79%_62.96%_21.88%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:656">
+                  W
+                </p>
+                <div className="absolute inset-[29.23%_66.67%_60%_27.25%]" data-node-id="1:657" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[32.05%_68.94%_62.96%_29.57%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:658">
+                  E
+                </p>
+                <div className="absolute inset-[29.23%_59.42%_60%_34.49%]" data-node-id="1:659" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[32.05%_61.77%_62.96%_36.74%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:660">
+                  R
+                </p>
+                <div className="absolute inset-[29.23%_52.17%_60%_41.74%]" data-node-id="1:661" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[32.05%_54.52%_62.96%_43.99%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:662">
+                  T
+                </p>
+                <div className="absolute inset-[29.23%_44.93%_60%_48.99%]" data-node-id="1:663" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[32.05%_47.11%_62.96%_51.23%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:664">
+                  Y
+                </p>
+                <div className="absolute inset-[29.23%_37.68%_60%_56.23%]" data-node-id="1:665" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[32.05%_39.77%_62.96%_58.41%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:666">
+                  U
+                </p>
+                <div className="absolute inset-[42.56%_87.54%_46.67%_2.61%]" data-node-id="1:667" data-name="Vector">
+                  <div className="absolute inset-[-0.6%_-0.37%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector34} />
+                  </div>
+                </div>
+                <div className="absolute inset-[43.08%_95.51%_55.38%_3.62%]" data-node-id="1:668" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector35} />
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[46.67%_90.62%_50.4%_3.41%] leading-[normal] not-italic text-[#1e1e1e] text-[7.865px] text-center whitespace-nowrap" data-node-id="1:669">
+                  caps lock
+                </p>
+                <div className="absolute inset-[42.56%_80.29%_46.67%_13.62%]" data-node-id="1:670" data-name="Vector">
+                  <div className="absolute inset-[-1.79%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector36} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[45.38%_82.47%_49.63%_15.87%] leading-[normal] not-italic text-[#aabce7] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:671">
+                  A
+                </p>
+                <div className="absolute inset-[42.56%_73.04%_46.67%_20.87%]" data-node-id="1:672" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[45.38%_75.39%_49.63%_23.12%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:673">
+                  S
+                </p>
+                <div className="absolute inset-[42.56%_65.8%_46.67%_28.12%]" data-node-id="1:674" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[45.38%_67.89%_49.63%_30.29%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:675">
+                  D
+                </p>
+                <div className="absolute inset-[42.56%_58.55%_46.67%_35.36%]" data-node-id="1:676" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[45.38%_60.83%_49.63%_37.68%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:677">
+                  F
+                </p>
+                <div className="absolute inset-[42.56%_51.3%_46.67%_42.61%]" data-node-id="1:678" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[45.38%_53.39%_49.63%_44.78%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:679">
+                  G
+                </p>
+                <div className="absolute inset-[42.56%_44.06%_46.67%_49.86%]" data-node-id="1:680" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[45.38%_46.15%_49.63%_52.03%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:681">
+                  H
+                </p>
+                <div className="absolute inset-[42.56%_36.81%_46.67%_57.1%]" data-node-id="1:682" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[45.38%_39.18%_49.63%_59.49%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:683">
+                  J
+                </p>
+                <div className="absolute inset-[55.9%_87.54%_33.33%_2.61%]" data-node-id="1:684" data-name="Vector">
+                  <div className="absolute inset-[-1.79%_-1.1%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector37} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[59.49%_91.97%_36.99%_4.71%] leading-[normal] not-italic text-[#aabce7] text-[9.613px] text-center whitespace-nowrap" data-node-id="1:685">
+                  shift
+                </p>
+                <div className="absolute inset-[55.9%_80.29%_33.33%_13.62%]" data-node-id="1:686" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[58.72%_82.57%_36.29%_15.94%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:687">
+                  Z
+                </p>
+                <div className="absolute inset-[55.9%_73.04%_33.33%_20.87%]" data-node-id="1:688" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[58.72%_75.39%_36.29%_23.12%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:689">
+                  X
+                </p>
+                <div className="absolute inset-[55.9%_65.8%_33.33%_28.12%]" data-node-id="1:690" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[58.72%_67.89%_36.29%_30.29%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:691">
+                  C
+                </p>
+                <div className="absolute inset-[55.9%_58.55%_33.33%_35.36%]" data-node-id="1:692" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[58.72%_60.73%_36.29%_37.61%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:693">
+                  V
+                </p>
+                <div className="absolute inset-[55.9%_51.3%_33.33%_42.61%]" data-node-id="1:694" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[58.72%_53.49%_36.29%_44.86%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:695">
+                  B
+                </p>
+                <div className="absolute inset-[55.9%_44.06%_33.33%_49.86%]" data-node-id="1:696" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[58.72%_46.22%_36.29%_51.96%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:697">
+                  N
+                </p>
+                <div className="absolute inset-[55.9%_36.81%_33.33%_57.1%]" data-node-id="1:698" data-name="Vector">
+                  <div className="absolute inset-[-0.6%]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector32} />
+                  </div>
+                </div>
+                <p className="[word-break:break-word] absolute font-['Inter'] font-normal inset-[58.72%_38.79%_36.29%_59.06%] leading-[normal] not-italic text-[#1e1e1e] text-[13.983px] text-center whitespace-nowrap" data-node-id="1:699">
+                  M
+                </p>
+                <div className="absolute inset-[69.74%_1.45%_2.56%_0]" data-node-id="1:700" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector38} />
+                </div>
+                <div className="absolute inset-[71.28%_45.22%_17.95%_17.1%]" data-node-id="1:701" data-name="Vector">
+                  <div className="absolute inset-[-0.6%_0]">
+                    <img alt="" className="block max-w-none size-full" src={imgVector39} />
+                  </div>
+                </div>
+                <div className="absolute inset-[77.44%_74.2%_13.33%_20.58%]" data-node-id="1:702" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector40} />
+                </div>
+                <div className="absolute inset-[81.03%_53.04%_6.67%_40%]" data-node-id="1:703" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector41} />
+                </div>
+                <div className="absolute inset-[76.67%_32.46%_15.13%_62.9%]" data-node-id="1:704" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector42} />
+                </div>
+                <div className="absolute inset-[86.15%_86.38%_6.67%_9.57%]" data-node-id="1:705" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector43} />
+                </div>
+                <div className="absolute inset-[79.49%_15.94%_10.26%_78.26%]" data-node-id="1:706" data-name="Vector">
+                  <img alt="" className="absolute block inset-0 max-w-none size-full" src={imgVector44} />
+                </div>
               </div>
             </div>
           </div>
@@ -288,7 +958,7 @@ export default function Frame2136141531() {
                   <div className="flex-none rotate-10">
                     <div className="h-[424.848px] relative rounded-[15.954px] w-[199.648px]" data-name="image 2090010098">
                       <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.954px]">
-                        <img alt="" className="absolute h-[101.43%] left-[-0.02%] max-w-none top-[-0.48%] w-[101.37%]" src={checkoutCollage5} />
+                        <img alt="" className="absolute h-[101.43%] left-[-0.02%] max-w-none top-[-0.48%] w-[101.37%]" src={imgImage2090010098} />
                       </div>
                     </div>
                   </div>
@@ -297,7 +967,7 @@ export default function Frame2136141531() {
                   <div className="flex-none rotate-5">
                     <div className="h-[423.482px] relative rounded-[15.954px] shadow-[0px_-1.952px_7.806px_0px_rgba(0,0,0,0.1)] w-[192.146px]" data-name="image 2090010097">
                       <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.954px]">
-                        <img alt="" className="absolute h-[101.93%] left-0 max-w-none top-[-0.97%] w-[101.56%]" src={checkoutCollage4} />
+                        <img alt="" className="absolute h-[101.93%] left-0 max-w-none top-[-0.97%] w-[101.56%]" src={imgImage2090010097} />
                       </div>
                     </div>
                   </div>
@@ -306,7 +976,7 @@ export default function Frame2136141531() {
                   <div className="-rotate-10 flex-none">
                     <div className="h-[421.881px] relative rounded-[15.954px] w-[195.723px]" data-name="image 2090010094">
                       <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.954px]">
-                        <img alt="" className="absolute h-[100.42%] left-[-1.66%] max-w-none top-[-0.42%] w-[101.66%]" src={checkoutCollage1} />
+                        <img alt="" className="absolute h-[100.42%] left-[-1.66%] max-w-none top-[-0.42%] w-[101.66%]" src={imgImage2090010094} />
                       </div>
                     </div>
                   </div>
@@ -315,13 +985,13 @@ export default function Frame2136141531() {
                   <div className="-rotate-5 flex-none">
                     <div className="h-[423.482px] relative rounded-[15.954px] shadow-[0px_1.952px_7.806px_0px_rgba(0,0,0,0.1)] w-[195.153px]" data-name="image 2090010095">
                       <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.954px]">
-                        <img alt="" className="absolute h-[99.81%] left-0 max-w-none top-[0.1%] w-full" src={checkoutCollage2} />
+                        <img alt="" className="absolute h-[99.81%] left-0 max-w-none top-[0.1%] w-full" src={imgImage2090010095} />
                       </div>
                     </div>
                   </div>
                 </div>
                 <div className="absolute h-[423.073px] left-[310.81px] rounded-[15.954px] shadow-[0px_1.952px_7.806px_0px_rgba(0,0,0,0.1)] top-[3.9px] w-[195.342px]" data-node-id="1:728" data-name="image 2090010096">
-                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.954px] size-full" src={checkoutCollage3} />
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.954px] size-full" src={imgImage2090010096} />
                 </div>
               </div>
             </div>
@@ -332,7 +1002,7 @@ export default function Frame2136141531() {
               <div className="content-stretch flex items-center relative shrink-0 w-full" data-node-id="1:731">
                 <div className="h-[485px] relative rounded-[16px] shrink-0 w-[220px]" data-node-id="1:732" data-name="image 2090010094">
                   <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[16px]">
-                    <img alt="" className="absolute h-[100.55%] left-[-1.66%] max-w-none top-[-0.51%] w-[103.31%]" src={checkoutTurned} />
+                    <img alt="" className="absolute h-[100.55%] left-[-1.66%] max-w-none top-[-0.51%] w-[103.31%]" src={imgImage2090010099} />
                   </div>
                 </div>
               </div>
@@ -504,23 +1174,23 @@ export default function Frame2136141531() {
               </p>
               <div className="content-stretch flex items-start justify-between relative shrink-0 w-full" data-node-id="1:762">
                 <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[212.143px]" data-node-id="1:763" data-name="image 2090010094">
-                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={giftcardHow1} />
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010100} />
                 </div>
                 <div className="h-[468.72px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216px]" data-node-id="1:764" data-name="image 2090010095">
-                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={giftcardHow2} />
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010101} />
                 </div>
                 <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216px]" data-node-id="1:765" data-name="image 2090010096">
-                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={giftcardHow3} />
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010102} />
                 </div>
                 <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[212.143px]" data-node-id="1:766" data-name="image 2090010097">
-                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={giftcardHow4} />
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010103} />
                 </div>
                 <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[212.143px]" data-node-id="1:767" data-name="image 2090010098">
                   <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[15.429px]">
                     <div className="absolute inset-0 overflow-hidden rounded-[15.429px]">
-                      <img alt="" className="absolute h-[101.43%] left-[-0.02%] max-w-none top-[-0.48%] w-[100.04%]" src={checkoutCollage5} />
+                      <img alt="" className="absolute h-[101.43%] left-[-0.02%] max-w-none top-[-0.48%] w-[100.04%]" src={imgImage2090010098} />
                     </div>
-                    <img alt="" className="absolute max-w-none object-cover rounded-[15.429px] size-full" src={giftcardHow5Overlay} />
+                    <img alt="" className="absolute max-w-none object-cover rounded-[15.429px] size-full" src={imgImage2090010104} />
                   </div>
                 </div>
               </div>
@@ -532,23 +1202,23 @@ export default function Frame2136141531() {
               <div className="content-stretch flex items-center justify-between relative shrink-0 w-full" data-node-id="1:770">
                 <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216.964px]" data-node-id="1:771" data-name="image 2090010094">
                   <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[16px]">
-                    <img alt="" className="absolute h-full left-[-0.02%] max-w-none top-[0.12%] w-[99.61%]" src={giftcardTurned1} />
+                    <img alt="" className="absolute h-full left-[-0.02%] max-w-none top-[0.12%] w-[99.61%]" src={imgImage2090010105} />
                   </div>
                 </div>
                 <div className="h-[468.72px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216px]" data-node-id="1:772" data-name="image 2090010095">
-                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[15.429px] size-full" src={giftcardTurned2} />
+                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010106} />
                 </div>
                 <div className="h-[469.728px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216.964px]" data-node-id="1:773" data-name="image 2090010096">
-                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[15.429px] size-full" src={giftcardTurned3} />
+                  <img alt="" className="absolute inset-0 max-w-none object-contain pointer-events-none rounded-[15.429px] size-full" src={imgImage2090010107} />
                 </div>
                 <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216.964px]" data-node-id="1:774" data-name="image 2090010097">
                   <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.429px]">
-                    <img alt="" className="absolute h-full left-[0.2%] max-w-none top-[0.03%] w-[99.61%]" src={giftcardTurned4} />
+                    <img alt="" className="absolute h-full left-[0.2%] max-w-none top-[0.03%] w-[99.61%]" src={imgImage2090010109} />
                   </div>
                 </div>
                 <div className="h-[467.679px] relative rounded-[15.429px] shadow-[0px_0.964px_7.714px_0px_rgba(0,76,201,0.15)] shrink-0 w-[216px]" data-node-id="1:775" data-name="image 2090010098">
                   <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[15.429px]">
-                    <img alt="" className="absolute h-full left-[-0.02%] max-w-none top-0 w-[100.05%]" src={giftcardTurned5} />
+                    <img alt="" className="absolute h-full left-[-0.02%] max-w-none top-0 w-[100.05%]" src={imgImage2090010110} />
                   </div>
                 </div>
               </div>
@@ -636,10 +1306,10 @@ export default function Frame2136141531() {
                 </div>
                 <div className="content-stretch flex gap-[32px] items-center relative shrink-0 w-full" data-node-id="1:807">
                   <div className="h-[476px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[220px]" data-node-id="1:808" data-name="image 2090010087">
-                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[16px] size-full" src={travelService1} />
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[16px] size-full" src={imgImage2090010087} />
                   </div>
                   <div className="h-[476px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[220px]" data-node-id="1:809" data-name="image 2090010088">
-                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[16px] size-full" src={travelService2} />
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[16px] size-full" src={imgImage2090010088} />
                   </div>
                 </div>
               </div>
@@ -652,13 +1322,13 @@ export default function Frame2136141531() {
                 <div className="content-stretch flex gap-[32px] items-center relative shrink-0 w-full" data-node-id="1:813">
                   <div className="h-[476px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[220px]" data-node-id="1:814" data-name="image 2090010087">
                     <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[16px]">
-                      <img alt="" className="absolute max-w-none object-cover rounded-[16px] size-full" src={travelService1} />
+                      <img alt="" className="absolute max-w-none object-cover rounded-[16px] size-full" src={imgImage2090010087} />
                       <img alt="" className="absolute max-w-none object-cover rounded-[16px] size-full" src={imgImage2090010089} />
                     </div>
                   </div>
                   <div className="h-[476px] relative rounded-[16px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[220px]" data-node-id="1:815" data-name="image 2090010088">
                     <div aria-hidden className="absolute inset-0 pointer-events-none rounded-[16px]">
-                      <img alt="" className="absolute max-w-none object-cover rounded-[16px] size-full" src={travelService2} />
+                      <img alt="" className="absolute max-w-none object-cover rounded-[16px] size-full" src={imgImage2090010088} />
                       <div className="absolute inset-0 overflow-hidden rounded-[16px]">
                         <img alt="" className="absolute left-0 max-w-none size-full top-0" src={imgImage2090010090} />
                       </div>
@@ -677,14 +1347,14 @@ export default function Frame2136141531() {
                 <div className="content-stretch flex flex-col gap-[28px] items-start relative shrink-0 w-full" data-node-id="1:820">
                   <div className="h-[222px] relative rounded-[13.214px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[452px]" data-node-id="1:821" data-name="image 2090010089">
                     <div className="absolute inset-0 overflow-hidden pointer-events-none rounded-[13.214px]">
-                      <img alt="" className="absolute h-[152.73%] left-0 max-w-none top-0 w-full" src={travelReservation1} />
+                      <img alt="" className="absolute h-[152.73%] left-0 max-w-none top-0 w-full" src={imgImage2090010091} />
                     </div>
                   </div>
                   <div className="aspect-[2002/644] relative rounded-[13.214px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-full" data-node-id="1:822" data-name="image 2090010090">
-                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[13.214px] size-full" src={travelReservation2} />
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[13.214px] size-full" src={imgImage2090010092} />
                   </div>
                   <div className="aspect-[2002/644] relative rounded-[13.214px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-full" data-node-id="1:823" data-name="image 2090010091">
-                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[13.214px] size-full" src={travelReservation3} />
+                    <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[13.214px] size-full" src={imgImage2090010093} />
                   </div>
                 </div>
               </div>
@@ -695,7 +1365,7 @@ export default function Frame2136141531() {
                   </p>
                 </div>
                 <div className="h-[568px] relative rounded-[11.193px] shadow-[0px_1px_8px_0px_rgba(0,76,201,0.15)] shrink-0 w-[375px]" data-node-id="1:827" data-name="image 2090010093">
-                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[11.193px] size-full" src={travelMigration} />
+                  <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[11.193px] size-full" src={imgImage2090010111} />
                 </div>
               </div>
             </div>
@@ -905,10 +1575,10 @@ export default function Frame2136141531() {
       </div>
       <div className="flex flex-col gap-[44px] h-[567px] items-center justify-center pb-[40px] pt-[24px] px-[80px] relative w-[1280px] shrink-0" data-node-id="1:904">
         <div className="absolute h-[397px] left-[1080px] top-[251.79px] w-[419px]" data-node-id="1:905" data-name="image 2090010110">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={footerHeartRight} />
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage2090010112} />
         </div>
         <div className="absolute h-[423px] left-[-58px] top-[-0.21px] w-[446.5px]" data-node-id="1:906" data-name="image 2090010109">
-          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={footerHeartLeft} />
+          <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none size-full" src={imgImage2090010113} />
         </div>
         <p className="[word-break:break-word] font-['Nunito_Sans'] font-extrabold leading-[80px] min-w-full relative shrink-0 text-[#004cc9] text-[72px] text-center w-[min-content]" data-node-id="1:907" style={{ fontVariationSettings: '"YTLC" 500, "wdth" 100' }}>
           Ready for new challenges
