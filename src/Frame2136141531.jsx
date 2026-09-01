@@ -1,6 +1,6 @@
+import heroPortrait from "./assets/hero-portrait.jpg";
+
 import {
-  imgFrame2136141452,
-  imgImg54491,
   imgImage2090010108,
   imgImage2090010098,
   imgImage2090010097,
@@ -135,10 +135,7 @@ export default function Frame2136141531() {
             </p>
           </div>
           <div className="h-[479px] overflow-clip relative rounded-[20px] shrink-0 w-full" data-node-id="1:380">
-            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[20px] size-full" src={imgFrame2136141452} />
-            <div className="absolute h-[740px] left-0 top-[-103px] w-[987px]" data-node-id="1:381" data-name="IMG_5449 1">
-              <img alt="" className="absolute inset-0 max-w-none object-bottom pointer-events-none size-full" src={imgImg54491} />
-            </div>
+            <img alt="" className="absolute inset-0 max-w-none object-cover pointer-events-none rounded-[20px] size-full" src={heroPortrait} />
             <div className="absolute h-[310px] left-0 overflow-clip top-[169px] w-[843px]" data-node-id="1:382">
               <div aria-hidden className="absolute bg-gradient-to-b from-[rgba(255,255,255,0)] inset-0 mix-blend-multiply pointer-events-none to-[rgba(22,88,194,0.6)]" />
               <div className="-translate-x-1/2 absolute content-stretch flex gap-[4px] items-center left-[calc(50%+0.5px)] top-[244px] w-[624px]" data-node-id="1:383">
