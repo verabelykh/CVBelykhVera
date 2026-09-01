@@ -1,5 +1,5 @@
-export const imgFrame2136141452 = "https://www.figma.com/api/mcp/asset/dbb52598-9925-4c27-b56b-98ffc9eff1f6.png";
-export const imgImg54491 = "https://www.figma.com/api/mcp/asset/f1beb0a6-ba23-44c8-81cc-c6054d727a5f.png";
+export const imgFrame2136141452 = "https://www.figma.com/api/mcp/asset/b6067dbd-a476-4fcf-b800-53d26a9cdf9a.png";
+export const imgImg54491 = "https://www.figma.com/api/mcp/asset/dd5284f3-289f-4383-8f7a-50f5a248046f.png";
 export const imgImage2090010108 = "https://www.figma.com/api/mcp/asset/b2a912cb-d0ab-4473-b049-d3e889d4a3e2.png";
 export const imgImage2090010098 = "https://www.figma.com/api/mcp/asset/ddeef919-18a9-49f1-be38-e664fae64c68.png";
 export const imgImage2090010097 = "https://www.figma.com/api/mcp/asset/2250b42c-3c2c-4b36-b6da-7eb26a796d04.png";
